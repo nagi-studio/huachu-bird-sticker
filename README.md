@@ -1,8 +1,10 @@
-# 全球鸟类贴纸库（特种形态分支）
+# 全球鸟类贴纸库（AI Native 分支）
 
 [English](README.md) · **简体中文**
 
 **这套贴纸的完整精神状态，不用去别的网站看，往下滑就懂了。**
+
+<img src="collage/wally-web.jpg" alt="Where's Huachu 拼贴" width="100%">
 
 原作者在 [`huashu-bird-sticker`](https://github.com/alchaincyf/huashu-bird-sticker) 里开源了 11,064 种 AI 生成的鸟类贴纸，覆盖了地球上全部现生物种。同时，原仓库在授权里立下了规矩：贴纸随便用（含商用），唯独不能拿去做观鸟、识鸟或鸟类图鉴类的竞品；物种数据部分则走 MIT 协议。
 
@@ -15,12 +17,6 @@
 **授权一句话：** 贴纸可以免费用于任何用途，包括商用、修改、自嘲和斗图；**唯一不行的是拿去做观鸟、识鸟或鸟类图鉴类的 App、网站或服务。**
 
 当然，我们本来也不是——严肃的博物学图鉴里哪有全员戴渔夫帽的。像素本人已与严肃生物学、野外识别、保护等级彻底脱钩。想认鸟、查分布，请去翻图鉴；想看一万只 AI 鸟如何整齐划一地填满名录，请去原项目；想找谁在骑车、谁在发呆、谁在思考如何安身立命，欢迎来这。
-
-## Where's Huachu
-
-![Where's Huachu collage](collage/wally-web.jpg)
-
-Full-res: `collage/wally-full.jpg`. Hidden target is the special huachu bird (small), not a bike hunt.
 
 ## 画廊
 

@@ -4,6 +4,7 @@ import test from "node:test";
 import {
   BIRD_COUNT,
   MAX_BIRDS,
+  TARGET_ID,
   TARGET_SRC,
   buildRound,
   formatTime,
@@ -32,10 +33,10 @@ function assertRound(round, width, height) {
   assert.equal(targets.length, 1);
   const target = targets[0];
   assert.equal(target.src, TARGET_SRC);
-  assert.equal(target.birdId, null);
+  assert.equal(target.birdId, TARGET_ID);
   const rest = round.items.filter((item) => !item.isTarget);
   assert.ok(rest.every((item) => item.sizeK > target.sizeK));
-  assert.ok(rest.some((item) => item.birdId >= 3 && item.birdId <= 8));
+  assert.ok(rest.some((item) => item.birdId >= 2 && item.birdId <= 7));
   const ids = rest.map((item) => item.birdId);
   assert.equal(new Set(ids).size, ids.length);
   const zs = new Set(round.items.map((item) => item.z));
@@ -88,7 +89,7 @@ test("huachu is not drawn as bird 007", () => {
     if (!decoy) continue;
     sawPelican = true;
     assert.equal(decoy.isTarget, false);
-    assert.equal(decoy.src, "/site/assets/thumbs/007.webp");
+    assert.equal(decoy.src, "/assets/thumbs/007.webp");
     assert.notEqual(decoy.src, TARGET_SRC);
   }
   assert.equal(sawPelican, true);
@@ -100,7 +101,8 @@ test("distractors stay inside the flock and include a bike", () => {
     assert.equal(ids.length, 24);
     assert.equal(new Set(ids).size, 24);
     assert.ok(ids.every((id) => id >= 1 && id <= BIRD_COUNT));
-    assert.ok(ids.some((id) => id >= 3 && id <= 8));
+    assert.equal(ids.includes(TARGET_ID), false);
+    assert.ok(ids.some((id) => id >= 2 && id <= 7));
   }
 });
 
@@ -131,9 +133,11 @@ test("catalog, thumbs, sounds, and filenames", async () => {
   const data = JSON.parse(await readFile(new URL("birds.json", root), "utf8"));
   assert.equal(data.birds.length, BIRD_COUNT);
   assert.equal(data.birds[0].id, "001");
-  assert.equal(data.birds.at(-1).id, "249");
+  assert.equal(data.birds.at(-1).id, "250");
+  assert.equal(data.birds.at(-1).name, "Huachu");
+  assert.equal(data.birds.find((bird) => bird.id === "249").name, "红嘴唐纳雀");
   assert.equal(data.birds.filter((bird) => bird.bike).length, 6);
-  await access(new URL("assets/thumbs/huachu.webp", root));
+  await access(new URL("assets/thumbs/250.webp", root));
   await access(new URL("assets/sfx/miss.mp3", root));
   await access(new URL("assets/sfx/win.mp3", root));
   for (const bird of data.birds) {
@@ -141,6 +145,7 @@ test("catalog, thumbs, sounds, and filenames", async () => {
     await access(new URL(`assets/thumbs/${bird.id}.webp`, root));
   }
   const names = await readdir(new URL("assets/thumbs/", root));
+  assert.equal(names.length, BIRD_COUNT);
   assert.equal(names.some((name) => name.toLowerCase().includes("huashu")), false);
-  assert.equal(names.includes("huachu.webp"), true);
+  assert.equal(names.includes("huachu.webp"), false);
 });

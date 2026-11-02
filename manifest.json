@@ -3,18 +3,12 @@
   {
    "id": 1,
    "path": "birds/001.png",
-   "species": "sample-01 (style anchor, duck-like)",
-   "source": "samples/bird-01.png"
-  },
-  {
-   "id": 2,
-   "path": "birds/002.png",
    "species": "sample-02 (style anchor, heron/stork-like)",
    "source": "samples/bird-02.png"
   },
   {
-   "id": 3,
-   "path": "birds/003.png",
+   "id": 2,
+   "path": "birds/002.png",
    "species": "Common Kingfisher",
    "name_zh": "普通翠鸟",
    "scientific_name": "Alcedo atthis",
@@ -24,8 +18,8 @@
    "source": "samples/bike-kingfisher.png"
   },
   {
-   "id": 4,
-   "path": "birds/004.png",
+   "id": 3,
+   "path": "birds/003.png",
    "species": "Eurasian Magpie",
    "name_zh": "欧亚喜鹊",
    "scientific_name": "Pica pica",
@@ -35,8 +29,8 @@
    "source": "samples/bike-magpie.png"
   },
   {
-   "id": 5,
-   "path": "birds/005.png",
+   "id": 4,
+   "path": "birds/004.png",
    "species": "Eurasian Eagle-Owl",
    "name_zh": "雕鸮",
    "scientific_name": "Bubo bubo",
@@ -46,8 +40,8 @@
    "source": "samples/bike-owl.png"
   },
   {
-   "id": 6,
-   "path": "birds/006.png",
+   "id": 5,
+   "path": "birds/005.png",
    "species": "Scarlet Macaw",
    "name_zh": "绯红金刚鹦鹉",
    "scientific_name": "Ara macao",
@@ -57,8 +51,8 @@
    "source": "samples/bike-parrot.png"
   },
   {
-   "id": 7,
-   "path": "birds/007.png",
+   "id": 6,
+   "path": "birds/006.png",
    "species": "Great White Pelican",
    "name_zh": "白鹈鹕",
    "scientific_name": "Pelecanus onocrotalus",
@@ -68,8 +62,8 @@
    "source": "samples/bike-pelican.png"
   },
   {
-   "id": 8,
-   "path": "birds/008.png",
+   "id": 7,
+   "path": "birds/007.png",
    "species": "Eurasian Sparrowhawk",
    "name_zh": "雀鹰",
    "scientific_name": "Accipiter nisus",
@@ -79,8 +73,8 @@
    "source": "samples/bike-sparrowhawk.png"
   },
   {
-   "id": 9,
-   "path": "birds/009.png",
+   "id": 8,
+   "path": "birds/008.png",
    "species": "Common Ostrich",
    "name_zh": "非洲鸵鸟",
    "scientific_name": "Struthio camelus",
@@ -89,8 +83,8 @@
    "source": "stickers/Struthioniformes/Struthionidae/Struthio_camelus.webp"
   },
   {
-   "id": 10,
-   "path": "birds/010.png",
+   "id": 9,
+   "path": "birds/009.png",
    "species": "Greater Rhea",
    "name_zh": "大美洲鸵",
    "scientific_name": "Rhea americana",
@@ -99,8 +93,8 @@
    "source": "stickers/Rheiformes/Rheidae/Rhea_americana.webp"
   },
   {
-   "id": 11,
-   "path": "birds/011.png",
+   "id": 10,
+   "path": "birds/010.png",
    "species": "Great Spotted Kiwi",
    "name_zh": "大斑几维",
    "scientific_name": "Apteryx maxima",
@@ -109,8 +103,8 @@
    "source": "stickers/Apterygiformes/Apterygidae/Apteryx_maxima.webp"
   },
   {
-   "id": 12,
-   "path": "birds/012.png",
+   "id": 11,
+   "path": "birds/011.png",
    "species": "Northern Cassowary",
    "name_zh": "单垂鹤鸵",
    "scientific_name": "Casuarius unappendiculatus",
@@ -119,8 +113,8 @@
    "source": "stickers/Casuariiformes/Casuariidae/Casuarius_unappendiculatus.webp"
   },
   {
-   "id": 13,
-   "path": "birds/013.png",
+   "id": 12,
+   "path": "birds/012.png",
    "species": "Red-winged Tinamou",
    "name_zh": "红翅䳍",
    "scientific_name": "Rhynchotus rufescens",
@@ -129,8 +123,8 @@
    "source": "stickers/Tinamiformes/Tinamidae/Rhynchotus_rufescens.webp"
   },
   {
-   "id": 14,
-   "path": "birds/014.png",
+   "id": 13,
+   "path": "birds/013.png",
    "species": "Southern Screamer",
    "name_zh": "冠叫鸭",
    "scientific_name": "Chauna torquata",
@@ -139,8 +133,8 @@
    "source": "stickers/Anseriformes/Anhimidae/Chauna_torquata.webp"
   },
   {
-   "id": 15,
-   "path": "birds/015.png",
+   "id": 14,
+   "path": "birds/014.png",
    "species": "Magpie Goose",
    "name_zh": "鹊雁",
    "scientific_name": "Anseranas semipalmata",
@@ -149,8 +143,8 @@
    "source": "stickers/Anseriformes/Anseranatidae/Anseranas_semipalmata.webp"
   },
   {
-   "id": 16,
-   "path": "birds/016.png",
+   "id": 15,
+   "path": "birds/015.png",
    "species": "White-faced Whistling Duck",
    "name_zh": "白脸树鸭",
    "scientific_name": "Dendrocygna viduata",
@@ -159,8 +153,8 @@
    "source": "stickers/Anseriformes/Anatidae/Dendrocygna_viduata.webp"
   },
   {
-   "id": 17,
-   "path": "birds/017.png",
+   "id": 16,
+   "path": "birds/016.png",
    "species": "Micronesian Megapode",
    "name_zh": "马岛塚雉",
    "scientific_name": "Megapodius laperouse",
@@ -169,8 +163,8 @@
    "source": "stickers/Galliformes/Megapodiidae/Megapodius_laperouse.webp"
   },
   {
-   "id": 18,
-   "path": "birds/018.png",
+   "id": 17,
+   "path": "birds/017.png",
    "species": "Red-throated Piping Guan",
    "name_zh": "红喉鸣冠雉",
    "scientific_name": "Pipile cujubi",
@@ -179,8 +173,8 @@
    "source": "stickers/Galliformes/Cracidae/Pipile_cujubi.webp"
   },
   {
-   "id": 19,
-   "path": "birds/019.png",
+   "id": 18,
+   "path": "birds/018.png",
    "species": "Eastern Crested Guineafowl",
    "name_zh": "冠珠鸡",
    "scientific_name": "Guttera pucherani",
@@ -189,8 +183,8 @@
    "source": "stickers/Galliformes/Numididae/Guttera_pucherani.webp"
   },
   {
-   "id": 20,
-   "path": "birds/020.png",
+   "id": 19,
+   "path": "birds/019.png",
    "species": "Stone Partridge",
    "name_zh": "石鹑",
    "scientific_name": "Ptilopachus petrosus",
@@ -199,8 +193,8 @@
    "source": "stickers/Galliformes/Odontophoridae/Ptilopachus_petrosus.webp"
   },
   {
-   "id": 21,
-   "path": "birds/021.png",
+   "id": 20,
+   "path": "birds/020.png",
    "species": "Western Tragopan",
    "name_zh": "黑头角雉",
    "scientific_name": "Tragopan melanocephalus",
@@ -209,8 +203,8 @@
    "source": "stickers/Galliformes/Phasianidae/Tragopan_melanocephalus.webp"
   },
   {
-   "id": 22,
-   "path": "birds/022.png",
+   "id": 21,
+   "path": "birds/021.png",
    "species": "Grey Nightjar",
    "name_zh": "普通夜鹰",
    "scientific_name": "Caprimulgus jotaka",
@@ -219,8 +213,8 @@
    "source": "stickers/Caprimulgiformes/Caprimulgidae/Caprimulgus_jotaka.webp"
   },
   {
-   "id": 23,
-   "path": "birds/023.png",
+   "id": 22,
+   "path": "birds/022.png",
    "species": "Oilbird",
    "name_zh": "油夜鹰",
    "scientific_name": "Steatornis caripensis",
@@ -229,8 +223,8 @@
    "source": "stickers/Steatornithiformes/Steatornithidae/Steatornis_caripensis.webp"
   },
   {
-   "id": 24,
-   "path": "birds/024.png",
+   "id": 23,
+   "path": "birds/023.png",
    "species": "White-winged Potoo",
    "name_zh": "白翅钩嘴夜鹰",
    "scientific_name": "Nyctibius leucopterus",
@@ -239,8 +233,8 @@
    "source": "stickers/Nyctibiiformes/Nyctibiidae/Nyctibius_leucopterus.webp"
   },
   {
-   "id": 25,
-   "path": "birds/025.png",
+   "id": 24,
+   "path": "birds/024.png",
    "species": "Papuan Frogmouth",
    "name_zh": "巴布亚蛙口夜鹰",
    "scientific_name": "Podargus papuensis",
@@ -249,8 +243,8 @@
    "source": "stickers/Podargiformes/Podargidae/Podargus_papuensis.webp"
   },
   {
-   "id": 26,
-   "path": "birds/026.png",
+   "id": 25,
+   "path": "birds/025.png",
    "species": "New Caledonian Owlet-nightjar",
    "name_zh": "新喀裸鼻夜鹰",
    "scientific_name": "Aegotheles savesi",
@@ -259,8 +253,8 @@
    "source": "stickers/Aegotheliformes/Aegothelidae/Aegotheles_savesi.webp"
   },
   {
-   "id": 27,
-   "path": "birds/027.png",
+   "id": 26,
+   "path": "birds/026.png",
    "species": "Crested Treeswift",
    "name_zh": "凤头雨燕",
    "scientific_name": "Hemiprocne coronata",
@@ -269,8 +263,8 @@
    "source": "stickers/Apodiformes/Hemiprocnidae/Hemiprocne_coronata.webp"
   },
   {
-   "id": 28,
-   "path": "birds/028.png",
+   "id": 27,
+   "path": "birds/027.png",
    "species": "Chestnut-collared Swift",
    "name_zh": "栗领黑雨燕",
    "scientific_name": "Streptoprocne rutila",
@@ -279,8 +273,8 @@
    "source": "stickers/Apodiformes/Apodidae/Streptoprocne_rutila.webp"
   },
   {
-   "id": 29,
-   "path": "birds/029.png",
+   "id": 28,
+   "path": "birds/028.png",
    "species": "Hyacinth Visorbearer",
    "name_zh": "紫蓝妆脸蜂鸟",
    "scientific_name": "Augastes scutatus",
@@ -289,8 +283,8 @@
    "source": "stickers/Apodiformes/Trochilidae/Augastes_scutatus.webp"
   },
   {
-   "id": 30,
-   "path": "birds/030.png",
+   "id": 29,
+   "path": "birds/029.png",
    "species": "Hartlaub's Turaco",
    "name_zh": "蓝冠蕉鹃",
    "scientific_name": "Tauraco hartlaubi",
@@ -299,8 +293,8 @@
    "source": "stickers/Musophagiformes/Musophagidae/Tauraco_hartlaubi.webp"
   },
   {
-   "id": 31,
-   "path": "birds/031.png",
+   "id": 30,
+   "path": "birds/030.png",
    "species": "Great Bustard",
    "name_zh": "大鸨",
    "scientific_name": "Otis tarda",
@@ -309,8 +303,8 @@
    "source": "stickers/Otidiformes/Otididae/Otis_tarda.webp"
   },
   {
-   "id": 32,
-   "path": "birds/032.png",
+   "id": 31,
+   "path": "birds/031.png",
    "species": "Asian Koel",
    "name_zh": "噪鹃",
    "scientific_name": "Eudynamys scolopaceus",
@@ -319,8 +313,8 @@
    "source": "stickers/Cuculiformes/Cuculidae/Eudynamys_scolopaceus.webp"
   },
   {
-   "id": 33,
-   "path": "birds/033.png",
+   "id": 32,
+   "path": "birds/032.png",
    "species": "Subdesert Mesite",
    "name_zh": "本氏拟鹑",
    "scientific_name": "Monias benschi",
@@ -329,8 +323,8 @@
    "source": "stickers/Mesitornithiformes/Mesitornithidae/Monias_benschi.webp"
   },
   {
-   "id": 34,
-   "path": "birds/034.png",
+   "id": 33,
+   "path": "birds/033.png",
    "species": "Double-banded Sandgrouse",
    "name_zh": "二斑沙鸡",
    "scientific_name": "Pterocles bicinctus",
@@ -339,8 +333,8 @@
    "source": "stickers/Pterocliformes/Pteroclidae/Pterocles_bicinctus.webp"
   },
   {
-   "id": 35,
-   "path": "birds/035.png",
+   "id": 34,
+   "path": "birds/034.png",
    "species": "Ashy Wood Pigeon",
    "name_zh": "灰林鸽",
    "scientific_name": "Columba pulchricollis",
@@ -349,8 +343,8 @@
    "source": "stickers/Columbiformes/Columbidae/Columba_pulchricollis.webp"
   },
   {
-   "id": 36,
-   "path": "birds/036.png",
+   "id": 35,
+   "path": "birds/035.png",
    "species": "Sungrebe",
    "name_zh": "日䴘",
    "scientific_name": "Heliornis fulica",
@@ -359,8 +353,8 @@
    "source": "stickers/Gruiformes/Heliornithidae/Heliornis_fulica.webp"
   },
   {
-   "id": 37,
-   "path": "birds/037.png",
+   "id": 36,
+   "path": "birds/036.png",
    "species": "White-spotted Flufftail",
    "name_zh": "白斑侏秧鸡",
    "scientific_name": "Sarothrura pulchra",
@@ -369,8 +363,8 @@
    "source": "stickers/Gruiformes/Sarothruridae/Sarothrura_pulchra.webp"
   },
   {
-   "id": 38,
-   "path": "birds/038.png",
+   "id": 37,
+   "path": "birds/037.png",
    "species": "Black-backed Swamphen",
    "name_zh": "黑背紫水鸡",
    "scientific_name": "Porphyrio indicus",
@@ -379,8 +373,8 @@
    "source": "stickers/Gruiformes/Rallidae/Porphyrio_indicus.webp"
   },
   {
-   "id": 39,
-   "path": "birds/039.png",
+   "id": 38,
+   "path": "birds/038.png",
    "species": "Grey-winged Trumpeter",
    "name_zh": "灰翅喇叭声鹤",
    "scientific_name": "Psophia crepitans",
@@ -389,8 +383,8 @@
    "source": "stickers/Gruiformes/Psophiidae/Psophia_crepitans.webp"
   },
   {
-   "id": 40,
-   "path": "birds/040.png",
+   "id": 39,
+   "path": "birds/039.png",
    "species": "White-naped Crane",
    "name_zh": "白枕鹤",
    "scientific_name": "Antigone vipio",
@@ -399,8 +393,8 @@
    "source": "stickers/Gruiformes/Gruidae/Antigone_vipio.webp"
   },
   {
-   "id": 41,
-   "path": "birds/041.png",
+   "id": 40,
+   "path": "birds/040.png",
    "species": "Limpkin",
    "name_zh": "秧鹤",
    "scientific_name": "Aramus guarauna",
@@ -409,8 +403,8 @@
    "source": "stickers/Gruiformes/Aramidae/Aramus_guarauna.webp"
   },
   {
-   "id": 42,
-   "path": "birds/042.png",
+   "id": 41,
+   "path": "birds/041.png",
    "species": "Little Grebe",
    "name_zh": "小䴙䴘",
    "scientific_name": "Tachybaptus ruficollis",
@@ -419,8 +413,8 @@
    "source": "stickers/Podicipediformes/Podicipedidae/Tachybaptus_ruficollis.webp"
   },
   {
-   "id": 43,
-   "path": "birds/043.png",
+   "id": 42,
+   "path": "birds/042.png",
    "species": "Lesser Flamingo",
    "name_zh": "小红鹳",
    "scientific_name": "Phoeniconaias minor",
@@ -429,8 +423,8 @@
    "source": "stickers/Phoenicopteriformes/Phoenicopteridae/Phoeniconaias_minor.webp"
   },
   {
-   "id": 44,
-   "path": "birds/044.png",
+   "id": 43,
+   "path": "birds/043.png",
    "species": "Common Buttonquail",
    "name_zh": "林三趾鹑",
    "scientific_name": "Turnix sylvaticus",
@@ -439,8 +433,8 @@
    "source": "stickers/Charadriiformes/Turnicidae/Turnix_sylvaticus.webp"
   },
   {
-   "id": 45,
-   "path": "birds/045.png",
+   "id": 44,
+   "path": "birds/044.png",
    "species": "Spotted Thick-knee",
    "name_zh": "斑石鸻",
    "scientific_name": "Burhinus capensis",
@@ -449,8 +443,8 @@
    "source": "stickers/Charadriiformes/Burhinidae/Burhinus_capensis.webp"
   },
   {
-   "id": 46,
-   "path": "birds/046.png",
+   "id": 45,
+   "path": "birds/045.png",
    "species": "Magellanic Plover",
    "name_zh": "短腿鸻",
    "scientific_name": "Pluvianellus socialis",
@@ -459,8 +453,8 @@
    "source": "stickers/Charadriiformes/Pluvianellidae/Pluvianellus_socialis.webp"
   },
   {
-   "id": 47,
-   "path": "birds/047.png",
+   "id": 46,
+   "path": "birds/046.png",
    "species": "Black-faced Sheathbill",
    "name_zh": "黑脸鞘嘴鸥",
    "scientific_name": "Chionis minor",
@@ -469,8 +463,8 @@
    "source": "stickers/Charadriiformes/Chionidae/Chionis_minor.webp"
   },
   {
-   "id": 48,
-   "path": "birds/048.png",
+   "id": 47,
+   "path": "birds/047.png",
    "species": "Eurasian Oystercatcher",
    "name_zh": "蛎鹬",
    "scientific_name": "Haematopus ostralegus",
@@ -479,8 +473,8 @@
    "source": "stickers/Charadriiformes/Haematopodidae/Haematopus_ostralegus.webp"
   },
   {
-   "id": 49,
-   "path": "birds/049.png",
+   "id": 48,
+   "path": "birds/048.png",
    "species": "Ibisbill",
    "name_zh": "鹮嘴鹬",
    "scientific_name": "Ibidorhyncha struthersii",
@@ -489,8 +483,8 @@
    "source": "stickers/Charadriiformes/Ibidorhynchidae/Ibidorhyncha_struthersii.webp"
   },
   {
-   "id": 50,
-   "path": "birds/050.png",
+   "id": 49,
+   "path": "birds/049.png",
    "species": "Black-winged Stilt",
    "name_zh": "黑翅长脚鹬",
    "scientific_name": "Himantopus himantopus",
@@ -499,8 +493,8 @@
    "source": "stickers/Charadriiformes/Recurvirostridae/Himantopus_himantopus.webp"
   },
   {
-   "id": 51,
-   "path": "birds/051.png",
+   "id": 50,
+   "path": "birds/050.png",
    "species": "Grey Plover",
    "name_zh": "灰斑鸻",
    "scientific_name": "Pluvialis squatarola",
@@ -509,8 +503,8 @@
    "source": "stickers/Charadriiformes/Charadriidae/Pluvialis_squatarola.webp"
   },
   {
-   "id": 52,
-   "path": "birds/052.png",
+   "id": 51,
+   "path": "birds/051.png",
    "species": "Egyptian Plover",
    "name_zh": "蓝腿燕鸻",
    "scientific_name": "Pluvianus aegyptius",
@@ -519,8 +513,8 @@
    "source": "stickers/Charadriiformes/Pluvianidae/Pluvianus_aegyptius.webp"
   },
   {
-   "id": 53,
-   "path": "birds/053.png",
+   "id": 52,
+   "path": "birds/052.png",
    "species": "Greater Painted-snipe",
    "name_zh": "彩鹬",
    "scientific_name": "Rostratula benghalensis",
@@ -529,8 +523,8 @@
    "source": "stickers/Charadriiformes/Rostratulidae/Rostratula_benghalensis.webp"
   },
   {
-   "id": 54,
-   "path": "birds/054.png",
+   "id": 53,
+   "path": "birds/053.png",
    "species": "Pheasant-tailed Jacana",
    "name_zh": "水雉",
    "scientific_name": "Hydrophasianus chirurgus",
@@ -539,8 +533,8 @@
    "source": "stickers/Charadriiformes/Jacanidae/Hydrophasianus_chirurgus.webp"
   },
   {
-   "id": 55,
-   "path": "birds/055.png",
+   "id": 54,
+   "path": "birds/054.png",
    "species": "Plains-wanderer",
    "name_zh": "领鹑",
    "scientific_name": "Pedionomus torquatus",
@@ -549,8 +543,8 @@
    "source": "stickers/Charadriiformes/Pedionomidae/Pedionomus_torquatus.webp"
   },
   {
-   "id": 56,
-   "path": "birds/056.png",
+   "id": 55,
+   "path": "birds/055.png",
    "species": "Rufous-bellied Seedsnipe",
    "name_zh": "棕腹籽鹬",
    "scientific_name": "Attagis gayi",
@@ -559,8 +553,8 @@
    "source": "stickers/Charadriiformes/Thinocoridae/Attagis_gayi.webp"
   },
   {
-   "id": 57,
-   "path": "birds/057.png",
+   "id": 56,
+   "path": "birds/056.png",
    "species": "Great Knot",
    "name_zh": "大滨鹬",
    "scientific_name": "Calidris tenuirostris",
@@ -569,8 +563,8 @@
    "source": "stickers/Charadriiformes/Scolopacidae/Calidris_tenuirostris.webp"
   },
   {
-   "id": 58,
-   "path": "birds/058.png",
+   "id": 57,
+   "path": "birds/057.png",
    "species": "Crab-plover",
    "name_zh": "蟹鸻",
    "scientific_name": "Dromas ardeola",
@@ -579,8 +573,8 @@
    "source": "stickers/Charadriiformes/Dromadidae/Dromas_ardeola.webp"
   },
   {
-   "id": 59,
-   "path": "birds/059.png",
+   "id": 58,
+   "path": "birds/058.png",
    "species": "Oriental Pratincole",
    "name_zh": "普通燕鸻",
    "scientific_name": "Glareola maldivarum",
@@ -589,8 +583,8 @@
    "source": "stickers/Charadriiformes/Glareolidae/Glareola_maldivarum.webp"
   },
   {
-   "id": 60,
-   "path": "birds/060.png",
+   "id": 59,
+   "path": "birds/059.png",
    "species": "Brown Noddy",
    "name_zh": "白顶玄燕鸥",
    "scientific_name": "Anous stolidus",
@@ -599,8 +593,8 @@
    "source": "stickers/Charadriiformes/Laridae/Anous_stolidus.webp"
   },
   {
-   "id": 61,
-   "path": "birds/061.png",
+   "id": 60,
+   "path": "birds/060.png",
    "species": "Pomarine Jaeger",
    "name_zh": "中贼鸥",
    "scientific_name": "Stercorarius pomarinus",
@@ -609,8 +603,8 @@
    "source": "stickers/Charadriiformes/Stercorariidae/Stercorarius_pomarinus.webp"
   },
   {
-   "id": 62,
-   "path": "birds/062.png",
+   "id": 61,
+   "path": "birds/061.png",
    "species": "Razorbill",
    "name_zh": "刀嘴海雀",
    "scientific_name": "Alca torda",
@@ -619,8 +613,8 @@
    "source": "stickers/Charadriiformes/Alcidae/Alca_torda.webp"
   },
   {
-   "id": 63,
-   "path": "birds/063.png",
+   "id": 62,
+   "path": "birds/062.png",
    "species": "Kagu",
    "name_zh": "鹭鹤",
    "scientific_name": "Rhynochetos jubatus",
@@ -629,8 +623,8 @@
    "source": "stickers/Eurypygiformes/Rhynochetidae/Rhynochetos_jubatus.webp"
   },
   {
-   "id": 64,
-   "path": "birds/064.png",
+   "id": 63,
+   "path": "birds/063.png",
    "species": "Sunbittern",
    "name_zh": "日鳽",
    "scientific_name": "Eurypyga helias",
@@ -639,8 +633,8 @@
    "source": "stickers/Eurypygiformes/Eurypygidae/Eurypyga_helias.webp"
   },
   {
-   "id": 65,
-   "path": "birds/065.png",
+   "id": 64,
+   "path": "birds/064.png",
    "species": "Red-tailed Tropicbird",
    "name_zh": "红尾鹲",
    "scientific_name": "Phaethon rubricauda",
@@ -649,8 +643,8 @@
    "source": "stickers/Phaethontiformes/Phaethontidae/Phaethon_rubricauda.webp"
   },
   {
-   "id": 66,
-   "path": "birds/066.png",
+   "id": 65,
+   "path": "birds/065.png",
    "species": "Red-throated Loon",
    "name_zh": "红喉潜鸟",
    "scientific_name": "Gavia stellata",
@@ -659,8 +653,8 @@
    "source": "stickers/Gaviiformes/Gaviidae/Gavia_stellata.webp"
   },
   {
-   "id": 67,
-   "path": "birds/067.png",
+   "id": 66,
+   "path": "birds/066.png",
    "species": "Chinstrap Penguin",
    "name_zh": "纹颊企鹅",
    "scientific_name": "Pygoscelis antarcticus",
@@ -669,8 +663,8 @@
    "source": "stickers/Sphenisciformes/Spheniscidae/Pygoscelis_antarcticus.webp"
   },
   {
-   "id": 68,
-   "path": "birds/068.png",
+   "id": 67,
+   "path": "birds/067.png",
    "species": "White-bellied Storm Petrel",
    "name_zh": "白腹舰海燕",
    "scientific_name": "Fregetta grallaria",
@@ -679,8 +673,8 @@
    "source": "stickers/Procellariiformes/Oceanitidae/Fregetta_grallaria.webp"
   },
   {
-   "id": 69,
-   "path": "birds/069.png",
+   "id": 68,
+   "path": "birds/068.png",
    "species": "Amsterdam Albatross",
    "name_zh": "阿岛信天翁",
    "scientific_name": "Diomedea amsterdamensis",
@@ -689,8 +683,8 @@
    "source": "stickers/Procellariiformes/Diomedeidae/Diomedea_amsterdamensis.webp"
   },
   {
-   "id": 70,
-   "path": "birds/070.png",
+   "id": 69,
+   "path": "birds/069.png",
    "species": "Swinhoe's Storm Petrel",
    "name_zh": "黑叉尾海燕",
    "scientific_name": "Hydrobates monorhis",
@@ -699,8 +693,8 @@
    "source": "stickers/Procellariiformes/Hydrobatidae/Hydrobates_monorhis.webp"
   },
   {
-   "id": 71,
-   "path": "birds/071.png",
+   "id": 70,
+   "path": "birds/070.png",
    "species": "Phoenix Petrel",
    "name_zh": "白腹圆尾鹱",
    "scientific_name": "Pterodroma alba",
@@ -709,8 +703,8 @@
    "source": "stickers/Procellariiformes/Procellariidae/Pterodroma_alba.webp"
   },
   {
-   "id": 72,
-   "path": "birds/072.png",
+   "id": 71,
+   "path": "birds/071.png",
    "species": "Black Stork",
    "name_zh": "黑鹳",
    "scientific_name": "Ciconia nigra",
@@ -719,8 +713,8 @@
    "source": "stickers/Ciconiiformes/Ciconiidae/Ciconia_nigra.webp"
   },
   {
-   "id": 73,
-   "path": "birds/073.png",
+   "id": 72,
+   "path": "birds/072.png",
    "species": "Great Frigatebird",
    "name_zh": "黑腹军舰鸟",
    "scientific_name": "Fregata minor",
@@ -729,8 +723,8 @@
    "source": "stickers/Suliformes/Fregatidae/Fregata_minor.webp"
   },
   {
-   "id": 74,
-   "path": "birds/074.png",
+   "id": 73,
+   "path": "birds/073.png",
    "species": "Brown Booby",
    "name_zh": "褐鲣鸟",
    "scientific_name": "Sula leucogaster",
@@ -739,8 +733,8 @@
    "source": "stickers/Suliformes/Sulidae/Sula_leucogaster.webp"
   },
   {
-   "id": 75,
-   "path": "birds/075.png",
+   "id": 74,
+   "path": "birds/074.png",
    "species": "Australasian Darter",
    "name_zh": "澳洲蛇鹈",
    "scientific_name": "Anhinga novaehollandiae",
@@ -749,8 +743,8 @@
    "source": "stickers/Suliformes/Anhingidae/Anhinga_novaehollandiae.webp"
   },
   {
-   "id": 76,
-   "path": "birds/076.png",
+   "id": 75,
+   "path": "birds/075.png",
    "species": "Great Cormorant",
    "name_zh": "普通鸬鹚",
    "scientific_name": "Phalacrocorax carbo",
@@ -759,8 +753,8 @@
    "source": "stickers/Suliformes/Phalacrocoracidae/Phalacrocorax_carbo.webp"
   },
   {
-   "id": 77,
-   "path": "birds/077.png",
+   "id": 76,
+   "path": "birds/076.png",
    "species": "Black-faced Spoonbill",
    "name_zh": "黑脸琵鹭",
    "scientific_name": "Platalea minor",
@@ -769,8 +763,8 @@
    "source": "stickers/Pelecaniformes/Threskiornithidae/Platalea_minor.webp"
   },
   {
-   "id": 78,
-   "path": "birds/078.png",
+   "id": 77,
+   "path": "birds/077.png",
    "species": "Black Bittern",
    "name_zh": "黑鳽",
    "scientific_name": "Botaurus flavicollis",
@@ -779,8 +773,8 @@
    "source": "stickers/Pelecaniformes/Ardeidae/Botaurus_flavicollis.webp"
   },
   {
-   "id": 79,
-   "path": "birds/079.png",
+   "id": 78,
+   "path": "birds/078.png",
    "species": "Hamerkop",
    "name_zh": "锤头鹳",
    "scientific_name": "Scopus umbretta",
@@ -789,8 +783,8 @@
    "source": "stickers/Pelecaniformes/Scopidae/Scopus_umbretta.webp"
   },
   {
-   "id": 80,
-   "path": "birds/080.png",
+   "id": 79,
+   "path": "birds/079.png",
    "species": "Shoebill",
    "name_zh": "鲸头鹳",
    "scientific_name": "Balaeniceps rex",
@@ -799,8 +793,8 @@
    "source": "stickers/Pelecaniformes/Balaenicipitidae/Balaeniceps_rex.webp"
   },
   {
-   "id": 81,
-   "path": "birds/081.png",
+   "id": 80,
+   "path": "birds/080.png",
    "species": "Hoatzin",
    "name_zh": "麝雉",
    "scientific_name": "Opisthocomus hoazin",
@@ -809,8 +803,8 @@
    "source": "stickers/Opisthocomiformes/Opisthocomidae/Opisthocomus_hoazin.webp"
   },
   {
-   "id": 82,
-   "path": "birds/082.png",
+   "id": 81,
+   "path": "birds/081.png",
    "species": "Lesser Yellow-headed Vulture",
    "name_zh": "小黄头美洲鹫",
    "scientific_name": "Cathartes burrovianus",
@@ -819,8 +813,8 @@
    "source": "stickers/Accipitriformes/Cathartidae/Cathartes_burrovianus.webp"
   },
   {
-   "id": 83,
-   "path": "birds/083.png",
+   "id": 82,
+   "path": "birds/082.png",
    "species": "Secretarybird",
    "name_zh": "鹭鹰",
    "scientific_name": "Sagittarius serpentarius",
@@ -829,8 +823,8 @@
    "source": "stickers/Accipitriformes/Sagittariidae/Sagittarius_serpentarius.webp"
   },
   {
-   "id": 84,
-   "path": "birds/084.png",
+   "id": 83,
+   "path": "birds/083.png",
    "species": "Osprey",
    "name_zh": "鹗",
    "scientific_name": "Pandion haliaetus",
@@ -839,8 +833,8 @@
    "source": "stickers/Accipitriformes/Pandionidae/Pandion_haliaetus.webp"
   },
   {
-   "id": 85,
-   "path": "birds/085.png",
+   "id": 84,
+   "path": "birds/084.png",
    "species": "Red Owl",
    "name_zh": "马岛草鸮",
    "scientific_name": "Tyto soumagnei",
@@ -849,8 +843,8 @@
    "source": "stickers/Strigiformes/Tytonidae/Tyto_soumagnei.webp"
   },
   {
-   "id": 86,
-   "path": "birds/086.png",
+   "id": 85,
+   "path": "birds/085.png",
    "species": "Red-faced Mousebird",
    "name_zh": "红脸鼠鸟",
    "scientific_name": "Urocolius indicus",
@@ -859,8 +853,8 @@
    "source": "stickers/Coliiformes/Coliidae/Urocolius_indicus.webp"
   },
   {
-   "id": 87,
-   "path": "birds/087.png",
+   "id": 86,
+   "path": "birds/086.png",
    "species": "Cuckoo-roller",
    "name_zh": "鹃三宝鸟",
    "scientific_name": "Leptosomus discolor",
@@ -869,8 +863,8 @@
    "source": "stickers/Leptosomiformes/Leptosomidae/Leptosomus_discolor.webp"
   },
   {
-   "id": 88,
-   "path": "birds/088.png",
+   "id": 87,
+   "path": "birds/087.png",
    "species": "Red-headed Trogon",
    "name_zh": "红头咬鹃",
    "scientific_name": "Harpactes erythrocephalus",
@@ -879,8 +873,8 @@
    "source": "stickers/Trogoniformes/Trogonidae/Harpactes_erythrocephalus.webp"
   },
   {
-   "id": 89,
-   "path": "birds/089.png",
+   "id": 88,
+   "path": "birds/088.png",
    "species": "Common Hoopoe",
    "name_zh": "戴胜",
    "scientific_name": "Upupa epops",
@@ -889,8 +883,8 @@
    "source": "stickers/Bucerotiformes/Upupidae/Upupa_epops.webp"
   },
   {
-   "id": 90,
-   "path": "birds/090.png",
+   "id": 89,
+   "path": "birds/089.png",
    "species": "White-headed Wood Hoopoe",
    "name_zh": "白头林戴胜",
    "scientific_name": "Phoeniculus bollei",
@@ -899,8 +893,8 @@
    "source": "stickers/Bucerotiformes/Phoeniculidae/Phoeniculus_bollei.webp"
   },
   {
-   "id": 91,
-   "path": "birds/091.png",
+   "id": 90,
+   "path": "birds/090.png",
    "species": "Southern Ground Hornbill",
    "name_zh": "红脸地犀鸟",
    "scientific_name": "Bucorvus leadbeateri",
@@ -909,8 +903,8 @@
    "source": "stickers/Bucerotiformes/Bucerotidae/Bucorvus_leadbeateri.webp"
   },
   {
-   "id": 92,
-   "path": "birds/092.png",
+   "id": 91,
+   "path": "birds/091.png",
    "species": "Indian Roller",
    "name_zh": "西棕胸佛法僧",
    "scientific_name": "Coracias benghalensis",
@@ -919,8 +913,8 @@
    "source": "stickers/Coraciiformes/Coraciidae/Coracias_benghalensis.webp"
   },
   {
-   "id": 93,
-   "path": "birds/093.png",
+   "id": 92,
+   "path": "birds/092.png",
    "species": "Rufous-headed Ground Roller",
    "name_zh": "栗头地三宝鸟",
    "scientific_name": "Atelornis crossleyi",
@@ -929,8 +923,8 @@
    "source": "stickers/Coraciiformes/Brachypteraciidae/Atelornis_crossleyi.webp"
   },
   {
-   "id": 94,
-   "path": "birds/094.png",
+   "id": 93,
+   "path": "birds/093.png",
    "species": "Cuban Tody",
    "name_zh": "杂色短尾鴗",
    "scientific_name": "Todus multicolor",
@@ -939,8 +933,8 @@
    "source": "stickers/Coraciiformes/Todidae/Todus_multicolor.webp"
   },
   {
-   "id": 95,
-   "path": "birds/095.png",
+   "id": 94,
+   "path": "birds/094.png",
    "species": "Turquoise-browed Motmot",
    "name_zh": "绿眉翠鴗",
    "scientific_name": "Eumomota superciliosa",
@@ -949,8 +943,8 @@
    "source": "stickers/Coraciiformes/Momotidae/Eumomota_superciliosa.webp"
   },
   {
-   "id": 96,
-   "path": "birds/096.png",
+   "id": 95,
+   "path": "birds/095.png",
    "species": "Chestnut-headed Bee-eater",
    "name_zh": "栗头蜂虎",
    "scientific_name": "Merops leschenaulti",
@@ -959,8 +953,8 @@
    "source": "stickers/Coraciiformes/Meropidae/Merops_leschenaulti.webp"
   },
   {
-   "id": 97,
-   "path": "birds/097.png",
+   "id": 96,
+   "path": "birds/096.png",
    "species": "Three-toed Jacamar",
    "name_zh": "三趾鹟䴕",
    "scientific_name": "Jacamaralcyon tridactyla",
@@ -969,8 +963,8 @@
    "source": "stickers/Piciformes/Galbulidae/Jacamaralcyon_tridactyla.webp"
   },
   {
-   "id": 98,
-   "path": "birds/098.png",
+   "id": 97,
+   "path": "birds/097.png",
    "species": "Spot-backed Puffbird",
    "name_zh": "斑背蓬头䴕",
    "scientific_name": "Nystalus maculatus",
@@ -979,8 +973,8 @@
    "source": "stickers/Piciformes/Bucconidae/Nystalus_maculatus.webp"
   },
   {
-   "id": 99,
-   "path": "birds/099.png",
+   "id": 98,
+   "path": "birds/098.png",
    "species": "Red-headed Barbet",
    "name_zh": "红头拟啄木鸟",
    "scientific_name": "Eubucco bourcierii",
@@ -989,8 +983,8 @@
    "source": "stickers/Piciformes/Capitonidae/Eubucco_bourcierii.webp"
   },
   {
-   "id": 100,
-   "path": "birds/100.png",
+   "id": 99,
+   "path": "birds/099.png",
    "species": "Toucan Barbet",
    "name_zh": "巨嘴拟啄木鸟",
    "scientific_name": "Semnornis ramphastinus",
@@ -999,8 +993,8 @@
    "source": "stickers/Piciformes/Semnornithidae/Semnornis_ramphastinus.webp"
   },
   {
-   "id": 101,
-   "path": "birds/101.png",
+   "id": 100,
+   "path": "birds/100.png",
    "species": "Hooded Mountain Toucan",
    "name_zh": "冠山巨嘴鸟",
    "scientific_name": "Andigena cucullata",
@@ -1009,8 +1003,8 @@
    "source": "stickers/Piciformes/Ramphastidae/Andigena_cucullata.webp"
   },
   {
-   "id": 102,
-   "path": "birds/102.png",
+   "id": 101,
+   "path": "birds/101.png",
    "species": "Great Barbet",
    "name_zh": "大拟啄木鸟",
    "scientific_name": "Psilopogon virens",
@@ -1019,8 +1013,8 @@
    "source": "stickers/Piciformes/Megalaimidae/Psilopogon_virens.webp"
   },
   {
-   "id": 103,
-   "path": "birds/103.png",
+   "id": 102,
+   "path": "birds/102.png",
    "species": "Yellow-breasted Barbet",
    "name_zh": "黄胸拟啄木鸟",
    "scientific_name": "Trachyphonus margaritatus",
@@ -1029,8 +1023,8 @@
    "source": "stickers/Piciformes/Lybiidae/Trachyphonus_margaritatus.webp"
   },
   {
-   "id": 104,
-   "path": "birds/104.png",
+   "id": 103,
+   "path": "birds/103.png",
    "species": "Zenker's Honeyguide",
    "name_zh": "中非响蜜䴕",
    "scientific_name": "Melignomon zenkeri",
@@ -1039,8 +1033,8 @@
    "source": "stickers/Piciformes/Indicatoridae/Melignomon_zenkeri.webp"
   },
   {
-   "id": 105,
-   "path": "birds/105.png",
+   "id": 104,
+   "path": "birds/104.png",
    "species": "Eurasian Wryneck",
    "name_zh": "蚁䴕",
    "scientific_name": "Jynx torquilla",
@@ -1049,8 +1043,8 @@
    "source": "stickers/Piciformes/Picidae/Jynx_torquilla.webp"
   },
   {
-   "id": 106,
-   "path": "birds/106.png",
+   "id": 105,
+   "path": "birds/105.png",
    "species": "Red-legged Seriema",
    "name_zh": "红腿叫鹤",
    "scientific_name": "Cariama cristata",
@@ -1059,8 +1053,8 @@
    "source": "stickers/Cariamiformes/Cariamidae/Cariama_cristata.webp"
   },
   {
-   "id": 107,
-   "path": "birds/107.png",
+   "id": 106,
+   "path": "birds/106.png",
    "species": "Amur Falcon",
    "name_zh": "红脚隼",
    "scientific_name": "Falco amurensis",
@@ -1069,8 +1063,8 @@
    "source": "stickers/Falconiformes/Falconidae/Falco_amurensis.webp"
   },
   {
-   "id": 108,
-   "path": "birds/108.png",
+   "id": 107,
+   "path": "birds/107.png",
    "species": "Kea",
    "name_zh": "啄羊鹦鹉",
    "scientific_name": "Nestor notabilis",
@@ -1079,8 +1073,8 @@
    "source": "stickers/Psittaciformes/Strigopidae/Nestor_notabilis.webp"
   },
   {
-   "id": 109,
-   "path": "birds/109.png",
+   "id": 108,
+   "path": "birds/108.png",
    "species": "Yellow-crested Cockatoo",
    "name_zh": "小葵花鹦鹉",
    "scientific_name": "Cacatua sulphurea",
@@ -1089,8 +1083,8 @@
    "source": "stickers/Psittaciformes/Cacatuidae/Cacatua_sulphurea.webp"
   },
   {
-   "id": 110,
-   "path": "birds/110.png",
+   "id": 109,
+   "path": "birds/109.png",
    "species": "Alexandrine Parakeet",
    "name_zh": "亚历山大鹦鹉",
    "scientific_name": "Psittacula eupatria",
@@ -1099,8 +1093,8 @@
    "source": "stickers/Psittaciformes/Psittaculidae/Psittacula_eupatria.webp"
   },
   {
-   "id": 111,
-   "path": "birds/111.png",
+   "id": 110,
+   "path": "birds/110.png",
    "species": "Rifleman",
    "name_zh": "刺鹩",
    "scientific_name": "Acanthisitta chloris",
@@ -1109,8 +1103,8 @@
    "source": "stickers/Passeriformes/Acanthisittidae/Acanthisitta_chloris.webp"
   },
   {
-   "id": 112,
-   "path": "birds/112.png",
+   "id": 111,
+   "path": "birds/111.png",
    "species": "Sapayoa",
    "name_zh": "阔嘴霸鹟",
    "scientific_name": "Sapayoa aenigma",
@@ -1119,8 +1113,8 @@
    "source": "stickers/Passeriformes/Sapayoidae/Sapayoa_aenigma.webp"
   },
   {
-   "id": 113,
-   "path": "birds/113.png",
+   "id": 112,
+   "path": "birds/112.png",
    "species": "Schlegel's Asity",
    "name_zh": "施氏裸眉鸫",
    "scientific_name": "Philepitta schlegeli",
@@ -1129,8 +1123,8 @@
    "source": "stickers/Passeriformes/Philepittidae/Philepitta_schlegeli.webp"
   },
   {
-   "id": 114,
-   "path": "birds/114.png",
+   "id": 113,
+   "path": "birds/113.png",
    "species": "Silver-breasted Broadbill",
    "name_zh": "银胸丝冠鸟",
    "scientific_name": "Serilophus lunatus",
@@ -1139,8 +1133,8 @@
    "source": "stickers/Passeriformes/Eurylaimidae/Serilophus_lunatus.webp"
   },
   {
-   "id": 115,
-   "path": "birds/115.png",
+   "id": 114,
+   "path": "birds/114.png",
    "species": "Grey-headed Broadbill",
    "name_zh": "灰头阔嘴鸟",
    "scientific_name": "Smithornis sharpei",
@@ -1149,8 +1143,8 @@
    "source": "stickers/Passeriformes/Calyptomenidae/Smithornis_sharpei.webp"
   },
   {
-   "id": 116,
-   "path": "birds/116.png",
+   "id": 115,
+   "path": "birds/115.png",
    "species": "Nicobar Hooded Pitta",
    "name_zh": "尼科巴绿胸八色鸫",
    "scientific_name": "Pitta abbotti",
@@ -1159,8 +1153,8 @@
    "source": "stickers/Passeriformes/Pittidae/Pitta_abbotti.webp"
   },
   {
-   "id": 117,
-   "path": "birds/117.png",
+   "id": 116,
+   "path": "birds/116.png",
    "species": "Chaco Earthcreeper",
    "name_zh": "查科爬地雀",
    "scientific_name": "Tarphonomus certhioides",
@@ -1169,8 +1163,8 @@
    "source": "stickers/Passeriformes/Furnariidae/Tarphonomus_certhioides.webp"
   },
   {
-   "id": 118,
-   "path": "birds/118.png",
+   "id": 117,
+   "path": "birds/117.png",
    "species": "Stripe-backed Antbird",
    "name_zh": "纹背蚁鹩",
    "scientific_name": "Myrmorchilus strigilatus",
@@ -1179,8 +1173,8 @@
    "source": "stickers/Passeriformes/Thamnophilidae/Myrmorchilus_strigilatus.webp"
   },
   {
-   "id": 119,
-   "path": "birds/119.png",
+   "id": 118,
+   "path": "birds/118.png",
    "species": "Rufous-capped Antthrush",
    "name_zh": "棕顶蚁鸫",
    "scientific_name": "Formicarius colma",
@@ -1189,8 +1183,8 @@
    "source": "stickers/Passeriformes/Formicariidae/Formicarius_colma.webp"
   },
   {
-   "id": 120,
-   "path": "birds/120.png",
+   "id": 119,
+   "path": "birds/119.png",
    "species": "Jocotoco Antpitta",
    "name_zh": "若克蚁鸫",
    "scientific_name": "Grallaria ridgelyi",
@@ -1199,8 +1193,8 @@
    "source": "stickers/Passeriformes/Grallariidae/Grallaria_ridgelyi.webp"
   },
   {
-   "id": 121,
-   "path": "birds/121.png",
+   "id": 120,
+   "path": "birds/120.png",
    "species": "Black-breasted Gnateater",
    "name_zh": "黑胸食蚊鸟",
    "scientific_name": "Conopophaga snethlageae",
@@ -1209,8 +1203,8 @@
    "source": "stickers/Passeriformes/Conopophagidae/Conopophaga_snethlageae.webp"
   },
   {
-   "id": 122,
-   "path": "birds/122.png",
+   "id": 121,
+   "path": "birds/121.png",
    "species": "Planalto Tapaculo",
    "name_zh": "高原窜鸟",
    "scientific_name": "Scytalopus pachecoi",
@@ -1219,8 +1213,8 @@
    "source": "stickers/Passeriformes/Rhinocryptidae/Scytalopus_pachecoi.webp"
   },
   {
-   "id": 123,
-   "path": "birds/123.png",
+   "id": 122,
+   "path": "birds/122.png",
    "species": "Collared Crescentchest",
    "name_zh": "领月胸窜鸟",
    "scientific_name": "Melanopareia torquata",
@@ -1229,8 +1223,8 @@
    "source": "stickers/Passeriformes/Melanopareiidae/Melanopareia_torquata.webp"
   },
   {
-   "id": 124,
-   "path": "birds/124.png",
+   "id": 123,
+   "path": "birds/123.png",
    "species": "Rusty-backed Monjita",
    "name_zh": "锈背蒙霸鹟",
    "scientific_name": "Neoxolmis rubetra",
@@ -1239,8 +1233,8 @@
    "source": "stickers/Passeriformes/Tyrannidae/Neoxolmis_rubetra.webp"
   },
   {
-   "id": 125,
-   "path": "birds/125.png",
+   "id": 124,
+   "path": "birds/124.png",
    "species": "Scarlet-breasted Fruiteater",
    "name_zh": "红胸食果伞鸟",
    "scientific_name": "Pipreola frontalis",
@@ -1249,8 +1243,8 @@
    "source": "stickers/Passeriformes/Cotingidae/Pipreola_frontalis.webp"
   },
   {
-   "id": 126,
-   "path": "birds/126.png",
+   "id": 125,
+   "path": "birds/125.png",
    "species": "Blue-backed Manakin",
    "name_zh": "蓝背娇鹟",
    "scientific_name": "Chiroxiphia pareola",
@@ -1259,8 +1253,8 @@
    "source": "stickers/Passeriformes/Pipridae/Chiroxiphia_pareola.webp"
   },
   {
-   "id": 127,
-   "path": "birds/127.png",
+   "id": 126,
+   "path": "birds/126.png",
    "species": "Green-backed Becard",
    "name_zh": "绿背厚嘴霸鹟",
    "scientific_name": "Pachyramphus viridis",
@@ -1269,8 +1263,8 @@
    "source": "stickers/Passeriformes/Tityridae/Pachyramphus_viridis.webp"
   },
   {
-   "id": 128,
-   "path": "birds/128.png",
+   "id": 127,
+   "path": "birds/127.png",
    "species": "Sharpbill",
    "name_zh": "尖喙霸鹟",
    "scientific_name": "Oxyruncus cristatus",
@@ -1279,8 +1273,8 @@
    "source": "stickers/Passeriformes/Oxyruncidae/Oxyruncus_cristatus.webp"
   },
   {
-   "id": 129,
-   "path": "birds/129.png",
+   "id": 128,
+   "path": "birds/128.png",
    "species": "Black-tailed Myiobius",
    "name_zh": "黑尾黄腰霸鹟",
    "scientific_name": "Myiobius atricaudus",
@@ -1289,8 +1283,8 @@
    "source": "stickers/Passeriformes/Onychorhynchidae/Myiobius_atricaudus.webp"
   },
   {
-   "id": 130,
-   "path": "birds/130.png",
+   "id": 129,
+   "path": "birds/129.png",
    "species": "Albert's Lyrebird",
    "name_zh": "艾氏琴鸟",
    "scientific_name": "Menura alberti",
@@ -1299,8 +1293,8 @@
    "source": "stickers/Passeriformes/Menuridae/Menura_alberti.webp"
   },
   {
-   "id": 131,
-   "path": "birds/131.png",
+   "id": 130,
+   "path": "birds/130.png",
    "species": "Noisy Scrubbird",
    "name_zh": "噪薮鸟",
    "scientific_name": "Atrichornis clamosus",
@@ -1309,8 +1303,8 @@
    "source": "stickers/Passeriformes/Atrichornithidae/Atrichornis_clamosus.webp"
   },
   {
-   "id": 132,
-   "path": "birds/132.png",
+   "id": 131,
+   "path": "birds/131.png",
    "species": "Black-eared Catbird",
    "name_zh": "斑园丁鸟",
    "scientific_name": "Ailuroedus melanotis",
@@ -1319,8 +1313,8 @@
    "source": "stickers/Passeriformes/Ptilonorhynchidae/Ailuroedus_melanotis.webp"
   },
   {
-   "id": 133,
-   "path": "birds/133.png",
+   "id": 132,
+   "path": "birds/132.png",
    "species": "Rufous Treecreeper",
    "name_zh": "棕短嘴旋木雀",
    "scientific_name": "Climacteris rufus",
@@ -1329,8 +1323,8 @@
    "source": "stickers/Passeriformes/Climacteridae/Climacteris_rufus.webp"
   },
   {
-   "id": 134,
-   "path": "birds/134.png",
+   "id": 133,
+   "path": "birds/133.png",
    "species": "Wallace's Fairywren",
    "name_zh": "华氏鹩莺",
    "scientific_name": "Sipodotus wallacii",
@@ -1339,8 +1333,8 @@
    "source": "stickers/Passeriformes/Maluridae/Sipodotus_wallacii.webp"
   },
   {
-   "id": 135,
-   "path": "birds/135.png",
+   "id": 134,
+   "path": "birds/134.png",
    "species": "Sumba Myzomela",
    "name_zh": "松巴摄蜜鸟",
    "scientific_name": "Myzomela dammermani",
@@ -1349,8 +1343,8 @@
    "source": "stickers/Passeriformes/Meliphagidae/Myzomela_dammermani.webp"
   },
   {
-   "id": 136,
-   "path": "birds/136.png",
+   "id": 135,
+   "path": "birds/135.png",
    "species": "Eastern Bristlebird",
    "name_zh": "棕刺莺",
    "scientific_name": "Dasyornis brachypterus",
@@ -1359,8 +1353,8 @@
    "source": "stickers/Passeriformes/Dasyornithidae/Dasyornis_brachypterus.webp"
   },
   {
-   "id": 137,
-   "path": "birds/137.png",
+   "id": 136,
+   "path": "birds/136.png",
    "species": "Spotted Pardalote",
    "name_zh": "斑翅食蜜鸟",
    "scientific_name": "Pardalotus punctatus",
@@ -1369,8 +1363,8 @@
    "source": "stickers/Passeriformes/Pardalotidae/Pardalotus_punctatus.webp"
   },
   {
-   "id": 138,
-   "path": "birds/138.png",
+   "id": 137,
+   "path": "birds/137.png",
    "species": "Rusty Mouse-warbler",
    "name_zh": "低地鼠莺",
    "scientific_name": "Origma murina",
@@ -1379,8 +1373,8 @@
    "source": "stickers/Passeriformes/Acanthizidae/Origma_murina.webp"
   },
   {
-   "id": 139,
-   "path": "birds/139.png",
+   "id": 138,
+   "path": "birds/138.png",
    "species": "White-browed Babbler",
    "name_zh": "白眉弯嘴鹛",
    "scientific_name": "Pomatostomus superciliosus",
@@ -1389,8 +1383,8 @@
    "source": "stickers/Passeriformes/Pomatostomidae/Pomatostomus_superciliosus.webp"
   },
   {
-   "id": 140,
-   "path": "birds/140.png",
+   "id": 139,
+   "path": "birds/139.png",
    "species": "Australian Logrunner",
    "name_zh": "刺尾鸫",
    "scientific_name": "Orthonyx temminckii",
@@ -1399,8 +1393,8 @@
    "source": "stickers/Passeriformes/Orthonychidae/Orthonyx_temminckii.webp"
   },
   {
-   "id": 141,
-   "path": "birds/141.png",
+   "id": 140,
+   "path": "birds/140.png",
    "species": "Loria's Satinbird",
    "name_zh": "黑短嘴极乐鸟",
    "scientific_name": "Cnemophilus loriae",
@@ -1409,8 +1403,8 @@
    "source": "stickers/Passeriformes/Cnemophilidae/Cnemophilus_loriae.webp"
   },
   {
-   "id": 142,
-   "path": "birds/142.png",
+   "id": 141,
+   "path": "birds/141.png",
    "species": "Spectacled Longbill",
    "name_zh": "小弯嘴吸蜜鸟",
    "scientific_name": "Oedistoma iliolophus",
@@ -1419,8 +1413,8 @@
    "source": "stickers/Passeriformes/Melanocharitidae/Oedistoma_iliolophus.webp"
   },
   {
-   "id": 143,
-   "path": "birds/143.png",
+   "id": 142,
+   "path": "birds/142.png",
    "species": "Eastern Crested Berrypecker",
    "name_zh": "冠啄果鸟",
    "scientific_name": "Paramythia montium",
@@ -1429,8 +1423,8 @@
    "source": "stickers/Passeriformes/Paramythiidae/Paramythia_montium.webp"
   },
   {
-   "id": 144,
-   "path": "birds/144.png",
+   "id": 143,
+   "path": "birds/143.png",
    "species": "North Island Saddleback",
    "name_zh": "北岛鞍背鸦",
    "scientific_name": "Philesturnus rufusater",
@@ -1439,8 +1433,8 @@
    "source": "stickers/Passeriformes/Callaeidae/Philesturnus_rufusater.webp"
   },
   {
-   "id": 145,
-   "path": "birds/145.png",
+   "id": 144,
+   "path": "birds/144.png",
    "species": "Stitchbird",
    "name_zh": "须吸蜜鸟",
    "scientific_name": "Notiomystis cincta",
@@ -1449,8 +1443,8 @@
    "source": "stickers/Passeriformes/Notiomystidae/Notiomystis_cincta.webp"
   },
   {
-   "id": 146,
-   "path": "birds/146.png",
+   "id": 145,
+   "path": "birds/145.png",
    "species": "Eastern Whipbird",
    "name_zh": "绿啸冠鸫",
    "scientific_name": "Psophodes olivaceus",
@@ -1459,8 +1453,8 @@
    "source": "stickers/Passeriformes/Psophodidae/Psophodes_olivaceus.webp"
   },
   {
-   "id": 147,
-   "path": "birds/147.png",
+   "id": 146,
+   "path": "birds/146.png",
    "species": "Copperback Quail-thrush",
    "name_zh": "铜背鹑鸫",
    "scientific_name": "Cinclosoma clarum",
@@ -1469,8 +1463,8 @@
    "source": "stickers/Passeriformes/Cinclosomatidae/Cinclosoma_clarum.webp"
   },
   {
-   "id": 148,
-   "path": "birds/148.png",
+   "id": 147,
+   "path": "birds/147.png",
    "species": "Dark Batis",
    "name_zh": "褐翅蓬背鹟",
    "scientific_name": "Batis crypta",
@@ -1479,8 +1473,8 @@
    "source": "stickers/Passeriformes/Platysteiridae/Batis_crypta.webp"
   },
   {
-   "id": 149,
-   "path": "birds/149.png",
+   "id": 148,
+   "path": "birds/148.png",
    "species": "Gabela Bushshrike",
    "name_zh": "褐头黑鵙",
    "scientific_name": "Laniarius amboimensis",
@@ -1489,8 +1483,8 @@
    "source": "stickers/Passeriformes/Malaconotidae/Laniarius_amboimensis.webp"
   },
   {
-   "id": 150,
-   "path": "birds/150.png",
+   "id": 149,
+   "path": "birds/149.png",
    "species": "Yellow-breasted Boatbill",
    "name_zh": "黄胸船嘴鹟",
    "scientific_name": "Machaerirhynchus flaviventer",
@@ -1499,8 +1493,8 @@
    "source": "stickers/Passeriformes/Machaerirhynchidae/Machaerirhynchus_flaviventer.webp"
   },
   {
-   "id": 151,
-   "path": "birds/151.png",
+   "id": 150,
+   "path": "birds/150.png",
    "species": "Common Woodshrike",
    "name_zh": "林鵙",
    "scientific_name": "Tephrodornis pondicerianus",
@@ -1509,8 +1503,8 @@
    "source": "stickers/Passeriformes/Vangidae/Tephrodornis_pondicerianus.webp"
   },
   {
-   "id": 152,
-   "path": "birds/152.png",
+   "id": 151,
+   "path": "birds/151.png",
    "species": "Bornean Bristlehead",
    "name_zh": "棘头鵙",
    "scientific_name": "Pityriasis gymnocephala",
@@ -1519,8 +1513,8 @@
    "source": "stickers/Passeriformes/Pityriasidae/Pityriasis_gymnocephala.webp"
   },
   {
-   "id": 153,
-   "path": "birds/153.png",
+   "id": 152,
+   "path": "birds/152.png",
    "species": "Ashy Woodswallow",
    "name_zh": "灰燕鵙",
    "scientific_name": "Artamus fuscus",
@@ -1529,8 +1523,8 @@
    "source": "stickers/Passeriformes/Artamidae/Artamus_fuscus.webp"
   },
   {
-   "id": 154,
-   "path": "birds/154.png",
+   "id": 153,
+   "path": "birds/153.png",
    "species": "Mottled Berryhunter",
    "name_zh": "斑啸鹟",
    "scientific_name": "Rhagologus leucostigma",
@@ -1539,8 +1533,8 @@
    "source": "stickers/Passeriformes/Rhagologidae/Rhagologus_leucostigma.webp"
   },
   {
-   "id": 155,
-   "path": "birds/155.png",
+   "id": 154,
+   "path": "birds/154.png",
    "species": "Common Iora",
    "name_zh": "黑翅雀鹎",
    "scientific_name": "Aegithina tiphia",
@@ -1549,8 +1543,8 @@
    "source": "stickers/Passeriformes/Aegithinidae/Aegithina_tiphia.webp"
   },
   {
-   "id": 156,
-   "path": "birds/156.png",
+   "id": 155,
+   "path": "birds/155.png",
    "species": "Oriental Cuckooshrike",
    "name_zh": "大鹃鵙",
    "scientific_name": "Coracina javensis",
@@ -1559,8 +1553,8 @@
    "source": "stickers/Passeriformes/Campephagidae/Coracina_javensis.webp"
   },
   {
-   "id": 157,
-   "path": "birds/157.png",
+   "id": 156,
+   "path": "birds/156.png",
    "species": "Yellowhead",
    "name_zh": "黄头刺莺",
    "scientific_name": "Mohoua ochrocephala",
@@ -1569,8 +1563,8 @@
    "source": "stickers/Passeriformes/Mohouidae/Mohoua_ochrocephala.webp"
   },
   {
-   "id": 158,
-   "path": "birds/158.png",
+   "id": 157,
+   "path": "birds/157.png",
    "species": "Varied Sittella",
    "name_zh": "杂色澳䴓",
    "scientific_name": "Daphoenositta chrysoptera",
@@ -1579,8 +1573,8 @@
    "source": "stickers/Passeriformes/Neosittidae/Daphoenositta_chrysoptera.webp"
   },
   {
-   "id": 159,
-   "path": "birds/159.png",
+   "id": 158,
+   "path": "birds/158.png",
    "species": "Wattled Ploughbill",
    "name_zh": "肉垂犁嘴鸟",
    "scientific_name": "Eulacestoma nigropectus",
@@ -1589,8 +1583,8 @@
    "source": "stickers/Passeriformes/Eulacestomatidae/Eulacestoma_nigropectus.webp"
   },
   {
-   "id": 160,
-   "path": "birds/160.png",
+   "id": 159,
+   "path": "birds/159.png",
    "species": "Crested Bellbird",
    "name_zh": "冠钟鹟",
    "scientific_name": "Oreoica gutturalis",
@@ -1599,8 +1593,8 @@
    "source": "stickers/Passeriformes/Oreoicidae/Oreoica_gutturalis.webp"
   },
   {
-   "id": 161,
-   "path": "birds/161.png",
+   "id": 160,
+   "path": "birds/160.png",
    "species": "Northern Shriketit",
    "name_zh": "北鵙雀鹟",
    "scientific_name": "Falcunculus whitei",
@@ -1609,8 +1603,8 @@
    "source": "stickers/Passeriformes/Falcunculidae/Falcunculus_whitei.webp"
   },
   {
-   "id": 162,
-   "path": "birds/162.png",
+   "id": 161,
+   "path": "birds/161.png",
    "species": "Sulphur-vented Whistler",
    "name_zh": "硫黄腹啸鹟",
    "scientific_name": "Pachycephala sulfuriventer",
@@ -1619,8 +1613,8 @@
    "source": "stickers/Passeriformes/Pachycephalidae/Pachycephala_sulfuriventer.webp"
   },
   {
-   "id": 163,
-   "path": "birds/163.png",
+   "id": 162,
+   "path": "birds/162.png",
    "species": "White-browed Shrike-babbler",
    "name_zh": "红翅鵙鹛",
    "scientific_name": "Pteruthius aeralatus",
@@ -1629,8 +1623,8 @@
    "source": "stickers/Passeriformes/Vireonidae/Pteruthius_aeralatus.webp"
   },
   {
-   "id": 164,
-   "path": "birds/164.png",
+   "id": 163,
+   "path": "birds/163.png",
    "species": "Dark-throated Oriole",
    "name_zh": "黑喉黄鹂",
    "scientific_name": "Oriolus xanthonotus",
@@ -1639,8 +1633,8 @@
    "source": "stickers/Passeriformes/Oriolidae/Oriolus_xanthonotus.webp"
   },
   {
-   "id": 165,
-   "path": "birds/165.png",
+   "id": 164,
+   "path": "birds/164.png",
    "species": "Greater Racket-tailed Drongo",
    "name_zh": "大盘尾",
    "scientific_name": "Dicrurus paradiseus",
@@ -1649,8 +1643,8 @@
    "source": "stickers/Passeriformes/Dicruridae/Dicrurus_paradiseus.webp"
   },
   {
-   "id": 166,
-   "path": "birds/166.png",
+   "id": 165,
+   "path": "birds/165.png",
    "species": "White-throated Fantail",
    "name_zh": "白喉扇尾鹟",
    "scientific_name": "Rhipidura albicollis",
@@ -1659,8 +1653,8 @@
    "source": "stickers/Passeriformes/Rhipiduridae/Rhipidura_albicollis.webp"
   },
   {
-   "id": 167,
-   "path": "birds/167.png",
+   "id": 166,
+   "path": "birds/166.png",
    "species": "Amur Paradise Flycatcher",
    "name_zh": "寿带",
    "scientific_name": "Terpsiphone incei",
@@ -1669,8 +1663,8 @@
    "source": "stickers/Passeriformes/Monarchidae/Terpsiphone_incei.webp"
   },
   {
-   "id": 168,
-   "path": "birds/168.png",
+   "id": 167,
+   "path": "birds/167.png",
    "species": "Crested Jayshrike",
    "name_zh": "冠鸦",
    "scientific_name": "Platylophus galericulatus",
@@ -1679,8 +1673,8 @@
    "source": "stickers/Passeriformes/Platylophidae/Platylophus_galericulatus.webp"
   },
   {
-   "id": 169,
-   "path": "birds/169.png",
+   "id": 168,
+   "path": "birds/168.png",
    "species": "Chinese Grey Shrike",
    "name_zh": "楔尾伯劳",
    "scientific_name": "Lanius sphenocercus",
@@ -1689,8 +1683,8 @@
    "source": "stickers/Passeriformes/Laniidae/Lanius_sphenocercus.webp"
   },
   {
-   "id": 170,
-   "path": "birds/170.png",
+   "id": 169,
+   "path": "birds/169.png",
    "species": "Apostlebird",
    "name_zh": "灰短嘴澳鸦",
    "scientific_name": "Struthidea cinerea",
@@ -1699,8 +1693,8 @@
    "source": "stickers/Passeriformes/Corcoracidae/Struthidea_cinerea.webp"
   },
   {
-   "id": 171,
-   "path": "birds/171.png",
+   "id": 170,
+   "path": "birds/170.png",
    "species": "Lesser Melampitta",
    "name_zh": "小黑脚风鸟",
    "scientific_name": "Melampitta lugubris",
@@ -1709,8 +1703,8 @@
    "source": "stickers/Passeriformes/Melampittidae/Melampitta_lugubris.webp"
   },
   {
-   "id": 172,
-   "path": "birds/172.png",
+   "id": 171,
+   "path": "birds/171.png",
    "species": "Blue-capped Ifrit",
    "name_zh": "蓝顶鹛鸫",
    "scientific_name": "Ifrita kowaldi",
@@ -1719,8 +1713,8 @@
    "source": "stickers/Passeriformes/Ifritidae/Ifrita_kowaldi.webp"
   },
   {
-   "id": 173,
-   "path": "birds/173.png",
+   "id": 172,
+   "path": "birds/172.png",
    "species": "Crinkle-collared Manucode",
    "name_zh": "绿胸辉极乐鸟",
    "scientific_name": "Manucodia chalybatus",
@@ -1729,8 +1723,8 @@
    "source": "stickers/Passeriformes/Paradisaeidae/Manucodia_chalybatus.webp"
   },
   {
-   "id": 174,
-   "path": "birds/174.png",
+   "id": 173,
+   "path": "birds/173.png",
    "species": "Solomons Robin",
    "name_zh": "所罗门鸲鹟",
    "scientific_name": "Petroica polymorpha",
@@ -1739,8 +1733,8 @@
    "source": "stickers/Passeriformes/Petroicidae/Petroica_polymorpha.webp"
   },
   {
-   "id": 175,
-   "path": "birds/175.png",
+   "id": 174,
+   "path": "birds/174.png",
    "species": "White-necked Rockfowl",
    "name_zh": "白颈岩鹛",
    "scientific_name": "Picathartes gymnocephalus",
@@ -1749,8 +1743,8 @@
    "source": "stickers/Passeriformes/Picathartidae/Picathartes_gymnocephalus.webp"
   },
   {
-   "id": 176,
-   "path": "birds/176.png",
+   "id": 175,
+   "path": "birds/175.png",
    "species": "Cape Rockjumper",
    "name_zh": "棕岩鸫",
    "scientific_name": "Chaetops frenatus",
@@ -1759,8 +1753,8 @@
    "source": "stickers/Passeriformes/Chaetopidae/Chaetops_frenatus.webp"
   },
   {
-   "id": 177,
-   "path": "birds/177.png",
+   "id": 176,
+   "path": "birds/176.png",
    "species": "Rail-babbler",
    "name_zh": "白眉长颈鸫",
    "scientific_name": "Eupetes macrocerus",
@@ -1769,8 +1763,8 @@
    "source": "stickers/Passeriformes/Eupetidae/Eupetes_macrocerus.webp"
   },
   {
-   "id": 178,
-   "path": "birds/178.png",
+   "id": 177,
+   "path": "birds/177.png",
    "species": "Japanese Waxwing",
    "name_zh": "小太平鸟",
    "scientific_name": "Bombycilla japonica",
@@ -1779,8 +1773,8 @@
    "source": "stickers/Passeriformes/Bombycillidae/Bombycilla_japonica.webp"
   },
   {
-   "id": 179,
-   "path": "birds/179.png",
+   "id": 178,
+   "path": "birds/178.png",
    "species": "Long-tailed Silky-flycatcher",
    "name_zh": "长尾丝鹟",
    "scientific_name": "Ptiliogonys caudatus",
@@ -1789,8 +1783,8 @@
    "source": "stickers/Passeriformes/Ptiliogonatidae/Ptiliogonys_caudatus.webp"
   },
   {
-   "id": 180,
-   "path": "birds/180.png",
+   "id": 179,
+   "path": "birds/179.png",
    "species": "Grey Hypocolius",
    "name_zh": "灰连雀",
    "scientific_name": "Hypocolius ampelinus",
@@ -1799,8 +1793,8 @@
    "source": "stickers/Passeriformes/Hypocoliidae/Hypocolius_ampelinus.webp"
   },
   {
-   "id": 181,
-   "path": "birds/181.png",
+   "id": 180,
+   "path": "birds/180.png",
    "species": "Palmchat",
    "name_zh": "棕榈䳭",
    "scientific_name": "Dulus dominicus",
@@ -1809,8 +1803,8 @@
    "source": "stickers/Passeriformes/Dulidae/Dulus_dominicus.webp"
   },
   {
-   "id": 182,
-   "path": "birds/182.png",
+   "id": 181,
+   "path": "birds/181.png",
    "species": "Hylocitrea",
    "name_zh": "林啸鹟",
    "scientific_name": "Hylocitrea bonensis",
@@ -1819,8 +1813,8 @@
    "source": "stickers/Passeriformes/Hylocitreidae/Hylocitrea_bonensis.webp"
   },
   {
-   "id": 183,
-   "path": "birds/183.png",
+   "id": 182,
+   "path": "birds/182.png",
    "species": "Grey-headed Canary-flycatcher",
    "name_zh": "方尾鹟",
    "scientific_name": "Culicicapa ceylonensis",
@@ -1829,8 +1823,8 @@
    "source": "stickers/Passeriformes/Stenostiridae/Culicicapa_ceylonensis.webp"
   },
   {
-   "id": 184,
-   "path": "birds/184.png",
+   "id": 183,
+   "path": "birds/183.png",
    "species": "Sichuan Tit",
    "name_zh": "川褐头山雀",
    "scientific_name": "Poecile weigoldicus",
@@ -1839,8 +1833,8 @@
    "source": "stickers/Passeriformes/Paridae/Poecile_weigoldicus.webp"
   },
   {
-   "id": 185,
-   "path": "birds/185.png",
+   "id": 184,
+   "path": "birds/184.png",
    "species": "Chinese Penduline Tit",
    "name_zh": "中华攀雀",
    "scientific_name": "Remiz consobrinus",
@@ -1849,8 +1843,8 @@
    "source": "stickers/Passeriformes/Remizidae/Remiz_consobrinus.webp"
   },
   {
-   "id": 186,
-   "path": "birds/186.png",
+   "id": 185,
+   "path": "birds/185.png",
    "species": "Yellow-throated Nicator",
    "name_zh": "黄喉斗鹎",
    "scientific_name": "Nicator vireo",
@@ -1859,8 +1853,8 @@
    "source": "stickers/Passeriformes/Nicatoridae/Nicator_vireo.webp"
   },
   {
-   "id": 187,
-   "path": "birds/187.png",
+   "id": 186,
+   "path": "birds/186.png",
    "species": "Bearded Reedling",
    "name_zh": "文须雀",
    "scientific_name": "Panurus biarmicus",
@@ -1869,8 +1863,8 @@
    "source": "stickers/Passeriformes/Panuridae/Panurus_biarmicus.webp"
   },
   {
-   "id": 188,
-   "path": "birds/188.png",
+   "id": 187,
+   "path": "birds/187.png",
    "species": "Crested Lark",
    "name_zh": "凤头百灵",
    "scientific_name": "Galerida cristata",
@@ -1879,8 +1873,8 @@
    "source": "stickers/Passeriformes/Alaudidae/Galerida_cristata.webp"
   },
   {
-   "id": 189,
-   "path": "birds/189.png",
+   "id": 188,
+   "path": "birds/188.png",
    "species": "Brown-eared Bulbul",
    "name_zh": "栗耳短脚鹎",
    "scientific_name": "Hypsipetes amaurotis",
@@ -1889,8 +1883,8 @@
    "source": "stickers/Passeriformes/Pycnonotidae/Hypsipetes_amaurotis.webp"
   },
   {
-   "id": 190,
-   "path": "birds/190.png",
+   "id": 189,
+   "path": "birds/189.png",
    "species": "Sand Martin",
    "name_zh": "崖沙燕",
    "scientific_name": "Riparia riparia",
@@ -1899,8 +1893,8 @@
    "source": "stickers/Passeriformes/Hirundinidae/Riparia_riparia.webp"
   },
   {
-   "id": 191,
-   "path": "birds/191.png",
+   "id": 190,
+   "path": "birds/190.png",
    "species": "Scaly-breasted Cupwing",
    "name_zh": "鳞胸鹪鹛",
    "scientific_name": "Pnoepyga albiventer",
@@ -1909,8 +1903,8 @@
    "source": "stickers/Passeriformes/Pnoepygidae/Pnoepyga_albiventer.webp"
   },
   {
-   "id": 192,
-   "path": "birds/192.png",
+   "id": 191,
+   "path": "birds/191.png",
    "species": "Northern Crombec",
    "name_zh": "短尾森莺",
    "scientific_name": "Sylvietta brachyura",
@@ -1919,8 +1913,8 @@
    "source": "stickers/Passeriformes/Macrosphenidae/Sylvietta_brachyura.webp"
   },
   {
-   "id": 193,
-   "path": "birds/193.png",
+   "id": 192,
+   "path": "birds/192.png",
    "species": "Brown-flanked Bush Warbler",
    "name_zh": "强脚树莺",
    "scientific_name": "Horornis fortipes",
@@ -1929,8 +1923,8 @@
    "source": "stickers/Passeriformes/Cettiidae/Horornis_fortipes.webp"
   },
   {
-   "id": 194,
-   "path": "birds/194.png",
+   "id": 193,
+   "path": "birds/193.png",
    "species": "Streaked Scrub Warbler",
    "name_zh": "纹鹪莺",
    "scientific_name": "Scotocerca inquieta",
@@ -1939,8 +1933,8 @@
    "source": "stickers/Passeriformes/Scotocercidae/Scotocerca_inquieta.webp"
   },
   {
-   "id": 195,
-   "path": "birds/195.png",
+   "id": 194,
+   "path": "birds/194.png",
    "species": "Livingstone's Flycatcher",
    "name_zh": "利氏红鹟",
    "scientific_name": "Erythrocercus livingstonei",
@@ -1949,8 +1943,8 @@
    "source": "stickers/Passeriformes/Erythrocercidae/Erythrocercus_livingstonei.webp"
   },
   {
-   "id": 196,
-   "path": "birds/196.png",
+   "id": 195,
+   "path": "birds/195.png",
    "species": "Green Hylia",
    "name_zh": "绿莺",
    "scientific_name": "Hylia prasina",
@@ -1959,8 +1953,8 @@
    "source": "stickers/Passeriformes/Hyliidae/Hylia_prasina.webp"
   },
   {
-   "id": 197,
-   "path": "birds/197.png",
+   "id": 196,
+   "path": "birds/196.png",
    "species": "Long-tailed Tit",
    "name_zh": "北长尾山雀",
    "scientific_name": "Aegithalos caudatus",
@@ -1969,8 +1963,8 @@
    "source": "stickers/Passeriformes/Aegithalidae/Aegithalos_caudatus.webp"
   },
   {
-   "id": 198,
-   "path": "birds/198.png",
+   "id": 197,
+   "path": "birds/197.png",
    "species": "Alström's Warbler",
    "name_zh": "淡尾鹟莺",
    "scientific_name": "Phylloscopus soror",
@@ -1979,8 +1973,8 @@
    "source": "stickers/Passeriformes/Phylloscopidae/Phylloscopus_soror.webp"
   },
   {
-   "id": 199,
-   "path": "birds/199.png",
+   "id": 198,
+   "path": "birds/198.png",
    "species": "Black-browed Reed Warbler",
    "name_zh": "黑眉苇莺",
    "scientific_name": "Acrocephalus bistrigiceps",
@@ -1989,8 +1983,8 @@
    "source": "stickers/Passeriformes/Acrocephalidae/Acrocephalus_bistrigiceps.webp"
   },
   {
-   "id": 200,
-   "path": "birds/200.png",
+   "id": 199,
+   "path": "birds/199.png",
    "species": "Lanceolated Warbler",
    "name_zh": "矛斑蝗莺",
    "scientific_name": "Locustella lanceolata",
@@ -1999,8 +1993,8 @@
    "source": "stickers/Passeriformes/Locustellidae/Locustella_lanceolata.webp"
   },
   {
-   "id": 201,
-   "path": "birds/201.png",
+   "id": 200,
+   "path": "birds/200.png",
    "species": "Black-capped Donacobius",
    "name_zh": "黑顶鹪莺",
    "scientific_name": "Donacobius atricapilla",
@@ -2009,8 +2003,8 @@
    "source": "stickers/Passeriformes/Donacobiidae/Donacobius_atricapilla.webp"
   },
   {
-   "id": 202,
-   "path": "birds/202.png",
+   "id": 201,
+   "path": "birds/201.png",
    "species": "Wedge-tailed Jery",
    "name_zh": "楔尾马岛莺",
    "scientific_name": "Hartertula flavoviridis",
@@ -2019,8 +2013,8 @@
    "source": "stickers/Passeriformes/Bernieridae/Hartertula_flavoviridis.webp"
   },
   {
-   "id": 203,
-   "path": "birds/203.png",
+   "id": 202,
+   "path": "birds/202.png",
    "species": "Common Tailorbird",
    "name_zh": "长尾缝叶莺",
    "scientific_name": "Orthotomus sutorius",
@@ -2029,8 +2023,8 @@
    "source": "stickers/Passeriformes/Cisticolidae/Orthotomus_sutorius.webp"
   },
   {
-   "id": 204,
-   "path": "birds/204.png",
+   "id": 203,
+   "path": "birds/203.png",
    "species": "Yemen Warbler",
    "name_zh": "也门林莺",
    "scientific_name": "Curruca buryi",
@@ -2039,8 +2033,8 @@
    "source": "stickers/Passeriformes/Sylviidae/Curruca_buryi.webp"
   },
   {
-   "id": 205,
-   "path": "birds/205.png",
+   "id": 204,
+   "path": "birds/204.png",
    "species": "Golden-breasted Fulvetta",
    "name_zh": "金胸雀鹛",
    "scientific_name": "Lioparus chrysotis",
@@ -2049,8 +2043,8 @@
    "source": "stickers/Passeriformes/Paradoxornithidae/Lioparus_chrysotis.webp"
   },
   {
-   "id": 206,
-   "path": "birds/206.png",
+   "id": 205,
+   "path": "birds/205.png",
    "species": "Lowland White-eye",
    "name_zh": "低地绣眼鸟",
    "scientific_name": "Zosterops meyeni",
@@ -2059,8 +2053,8 @@
    "source": "stickers/Passeriformes/Zosteropidae/Zosterops_meyeni.webp"
   },
   {
-   "id": 207,
-   "path": "birds/207.png",
+   "id": 206,
+   "path": "birds/206.png",
    "species": "Black-streaked Scimitar Babbler",
    "name_zh": "斑胸钩嘴鹛",
    "scientific_name": "Erythrogenys gravivox",
@@ -2069,8 +2063,8 @@
    "source": "stickers/Passeriformes/Timaliidae/Erythrogenys_gravivox.webp"
   },
   {
-   "id": 208,
-   "path": "birds/208.png",
+   "id": 207,
+   "path": "birds/207.png",
    "species": "Rusty-capped Fulvetta",
    "name_zh": "褐胁雀鹛",
    "scientific_name": "Schoeniparus dubius",
@@ -2079,8 +2073,8 @@
    "source": "stickers/Passeriformes/Pellorneidae/Schoeniparus_dubius.webp"
   },
   {
-   "id": 209,
-   "path": "birds/209.png",
+   "id": 208,
+   "path": "birds/208.png",
    "species": "White-crested Laughingthrush",
    "name_zh": "白冠噪鹛",
    "scientific_name": "Garrulax leucolophus",
@@ -2089,8 +2083,8 @@
    "source": "stickers/Passeriformes/Leiothrichidae/Garrulax_leucolophus.webp"
   },
   {
-   "id": 210,
-   "path": "birds/210.png",
+   "id": 209,
+   "path": "birds/209.png",
    "species": "Grey-chested Babbler",
    "name_zh": "灰胸雅鹛",
    "scientific_name": "Kakamega poliothorax",
@@ -2099,8 +2093,8 @@
    "source": "stickers/Passeriformes/Modulatricidae/Kakamega_poliothorax.webp"
   },
   {
-   "id": 211,
-   "path": "birds/211.png",
+   "id": 210,
+   "path": "birds/210.png",
    "species": "Cape Sugarbird",
    "name_zh": "长尾食蜜鸟",
    "scientific_name": "Promerops cafer",
@@ -2109,8 +2103,8 @@
    "source": "stickers/Passeriformes/Promeropidae/Promerops_cafer.webp"
   },
   {
-   "id": 212,
-   "path": "birds/212.png",
+   "id": 211,
+   "path": "birds/211.png",
    "species": "Palawan Fairy-bluebird",
    "name_zh": "巴拉望和平鸟",
    "scientific_name": "Irena tweeddalii",
@@ -2119,8 +2113,8 @@
    "source": "stickers/Passeriformes/Irenidae/Irena_tweeddalii.webp"
   },
   {
-   "id": 213,
-   "path": "birds/213.png",
+   "id": 212,
+   "path": "birds/212.png",
    "species": "Goldcrest",
    "name_zh": "戴菊",
    "scientific_name": "Regulus regulus",
@@ -2129,8 +2123,8 @@
    "source": "stickers/Passeriformes/Regulidae/Regulus_regulus.webp"
   },
   {
-   "id": 214,
-   "path": "birds/214.png",
+   "id": 213,
+   "path": "birds/213.png",
    "species": "Spotted Elachura",
    "name_zh": "丽星鹩鹛",
    "scientific_name": "Elachura formosa",
@@ -2139,8 +2133,8 @@
    "source": "stickers/Passeriformes/Elachuridae/Elachura_formosa.webp"
   },
   {
-   "id": 215,
-   "path": "birds/215.png",
+   "id": 214,
+   "path": "birds/214.png",
    "species": "Yellow-bellied Hyliota",
    "name_zh": "黄腹丛莺",
    "scientific_name": "Hyliota flavigaster",
@@ -2149,8 +2143,8 @@
    "source": "stickers/Passeriformes/Hyliotidae/Hyliota_flavigaster.webp"
   },
   {
-   "id": 216,
-   "path": "birds/216.png",
+   "id": 215,
+   "path": "birds/215.png",
    "species": "Rufous-backed Wren",
    "name_zh": "棕背曲嘴鹪鹩",
    "scientific_name": "Campylorhynchus capistratus",
@@ -2159,8 +2153,8 @@
    "source": "stickers/Passeriformes/Troglodytidae/Campylorhynchus_capistratus.webp"
   },
   {
-   "id": 217,
-   "path": "birds/217.png",
+   "id": 216,
+   "path": "birds/216.png",
    "species": "Tawny-faced Gnatwren",
    "name_zh": "半领蚋莺",
    "scientific_name": "Microbates cinereiventris",
@@ -2169,8 +2163,8 @@
    "source": "stickers/Passeriformes/Polioptilidae/Microbates_cinereiventris.webp"
   },
   {
-   "id": 218,
-   "path": "birds/218.png",
+   "id": 217,
+   "path": "birds/217.png",
    "species": "Eurasian Nuthatch",
    "name_zh": "普通䴓",
    "scientific_name": "Sitta europaea",
@@ -2179,8 +2173,8 @@
    "source": "stickers/Passeriformes/Sittidae/Sitta_europaea.webp"
   },
   {
-   "id": 219,
-   "path": "birds/219.png",
+   "id": 218,
+   "path": "birds/218.png",
    "species": "Wallcreeper",
    "name_zh": "红翅旋壁雀",
    "scientific_name": "Tichodroma muraria",
@@ -2189,8 +2183,8 @@
    "source": "stickers/Passeriformes/Tichodromidae/Tichodroma_muraria.webp"
   },
   {
-   "id": 220,
-   "path": "birds/220.png",
+   "id": 219,
+   "path": "birds/219.png",
    "species": "Eurasian Treecreeper",
    "name_zh": "旋木雀",
    "scientific_name": "Certhia familiaris",
@@ -2199,8 +2193,8 @@
    "source": "stickers/Passeriformes/Certhiidae/Certhia_familiaris.webp"
   },
   {
-   "id": 221,
-   "path": "birds/221.png",
+   "id": 220,
+   "path": "birds/220.png",
    "species": "Indian Spotted Creeper",
    "name_zh": "斑旋木雀",
    "scientific_name": "Salpornis spilonota",
@@ -2209,8 +2203,8 @@
    "source": "stickers/Passeriformes/Salpornithidae/Salpornis_spilonota.webp"
   },
   {
-   "id": 222,
-   "path": "birds/222.png",
+   "id": 221,
+   "path": "birds/221.png",
    "species": "Black Catbird",
    "name_zh": "黑嘲鸫",
    "scientific_name": "Melanoptila glabrirostris",
@@ -2219,8 +2213,8 @@
    "source": "stickers/Passeriformes/Mimidae/Melanoptila_glabrirostris.webp"
   },
   {
-   "id": 223,
-   "path": "birds/223.png",
+   "id": 222,
+   "path": "birds/222.png",
    "species": "White-shouldered Starling",
    "name_zh": "灰背椋鸟",
    "scientific_name": "Sturnia sinensis",
@@ -2229,8 +2223,8 @@
    "source": "stickers/Passeriformes/Sturnidae/Sturnia_sinensis.webp"
   },
   {
-   "id": 224,
-   "path": "birds/224.png",
+   "id": 223,
+   "path": "birds/223.png",
    "species": "Yellow-billed Oxpecker",
    "name_zh": "黄嘴牛椋鸟",
    "scientific_name": "Buphagus africanus",
@@ -2239,8 +2233,8 @@
    "source": "stickers/Passeriformes/Buphagidae/Buphagus_africanus.webp"
   },
   {
-   "id": 225,
-   "path": "birds/225.png",
+   "id": 224,
+   "path": "birds/224.png",
    "species": "Japanese Thrush",
    "name_zh": "乌灰鸫",
    "scientific_name": "Turdus cardis",
@@ -2249,8 +2243,8 @@
    "source": "stickers/Passeriformes/Turdidae/Turdus_cardis.webp"
   },
   {
-   "id": 226,
-   "path": "birds/226.png",
+   "id": 225,
+   "path": "birds/225.png",
    "species": "White-throated Rock Thrush",
    "name_zh": "白喉矶鸫",
    "scientific_name": "Monticola gularis",
@@ -2259,8 +2253,8 @@
    "source": "stickers/Passeriformes/Muscicapidae/Monticola_gularis.webp"
   },
   {
-   "id": 227,
-   "path": "birds/227.png",
+   "id": 226,
+   "path": "birds/226.png",
    "species": "White-throated Dipper",
    "name_zh": "河乌",
    "scientific_name": "Cinclus cinclus",
@@ -2269,8 +2263,8 @@
    "source": "stickers/Passeriformes/Cinclidae/Cinclus_cinclus.webp"
   },
   {
-   "id": 228,
-   "path": "birds/228.png",
+   "id": 227,
+   "path": "birds/227.png",
    "species": "Orange-bellied Leafbird",
    "name_zh": "橙腹叶鹎",
    "scientific_name": "Chloropsis hardwickii",
@@ -2279,8 +2273,8 @@
    "source": "stickers/Passeriformes/Chloropseidae/Chloropsis_hardwickii.webp"
   },
   {
-   "id": 229,
-   "path": "birds/229.png",
+   "id": 228,
+   "path": "birds/228.png",
    "species": "Plain Flowerpecker",
    "name_zh": "纯色啄花鸟",
    "scientific_name": "Dicaeum minullum",
@@ -2289,8 +2283,8 @@
    "source": "stickers/Passeriformes/Dicaeidae/Dicaeum_minullum.webp"
   },
   {
-   "id": 230,
-   "path": "birds/230.png",
+   "id": 229,
+   "path": "birds/229.png",
    "species": "Little Spiderhunter",
    "name_zh": "长嘴捕蛛鸟",
    "scientific_name": "Arachnothera longirostra",
@@ -2299,8 +2293,8 @@
    "source": "stickers/Passeriformes/Nectariniidae/Arachnothera_longirostra.webp"
   },
   {
-   "id": 231,
-   "path": "birds/231.png",
+   "id": 230,
+   "path": "birds/230.png",
    "species": "Eurasian Tree Sparrow",
    "name_zh": "麻雀",
    "scientific_name": "Passer montanus",
@@ -2309,8 +2303,8 @@
    "source": "stickers/Passeriformes/Passeridae/Passer_montanus.webp"
   },
   {
-   "id": 232,
-   "path": "birds/232.png",
+   "id": 231,
+   "path": "birds/231.png",
    "species": "Southern Brown-throated Weaver",
    "name_zh": "褐喉金织雀",
    "scientific_name": "Ploceus xanthopterus",
@@ -2319,8 +2313,8 @@
    "source": "stickers/Passeriformes/Ploceidae/Ploceus_xanthopterus.webp"
   },
   {
-   "id": 233,
-   "path": "birds/233.png",
+   "id": 232,
+   "path": "birds/232.png",
    "species": "Indian Silverbill",
    "name_zh": "白喉文鸟",
    "scientific_name": "Euodice malabarica",
@@ -2329,8 +2323,8 @@
    "source": "stickers/Passeriformes/Estrildidae/Euodice_malabarica.webp"
   },
   {
-   "id": 234,
-   "path": "birds/234.png",
+   "id": 233,
+   "path": "birds/233.png",
    "species": "Dusky Indigobird",
    "name_zh": "暗紫维达雀",
    "scientific_name": "Vidua funerea",
@@ -2339,8 +2333,8 @@
    "source": "stickers/Passeriformes/Viduidae/Vidua_funerea.webp"
   },
   {
-   "id": 235,
-   "path": "birds/235.png",
+   "id": 234,
+   "path": "birds/234.png",
    "species": "Olive Warbler",
    "name_zh": "橄榄绿森莺",
    "scientific_name": "Peucedramus taeniatus",
@@ -2349,8 +2343,8 @@
    "source": "stickers/Passeriformes/Peucedramidae/Peucedramus_taeniatus.webp"
   },
   {
-   "id": 236,
-   "path": "birds/236.png",
+   "id": 235,
+   "path": "birds/235.png",
    "species": "Robin Accentor",
    "name_zh": "鸲岩鹨",
    "scientific_name": "Prunella rubeculoides",
@@ -2359,8 +2353,8 @@
    "source": "stickers/Passeriformes/Prunellidae/Prunella_rubeculoides.webp"
   },
   {
-   "id": 237,
-   "path": "birds/237.png",
+   "id": 236,
+   "path": "birds/236.png",
    "species": "Citrine Wagtail",
    "name_zh": "黄头鹡鸰",
    "scientific_name": "Motacilla citreola",
@@ -2369,8 +2363,8 @@
    "source": "stickers/Passeriformes/Motacillidae/Motacilla_citreola.webp"
   },
   {
-   "id": 238,
-   "path": "birds/238.png",
+   "id": 237,
+   "path": "birds/237.png",
    "species": "Przevalski's Finch",
    "name_zh": "朱鹀",
    "scientific_name": "Urocynchramus pylzowi",
@@ -2379,8 +2373,8 @@
    "source": "stickers/Passeriformes/Urocynchramidae/Urocynchramus_pylzowi.webp"
   },
   {
-   "id": 239,
-   "path": "birds/239.png",
+   "id": 238,
+   "path": "birds/238.png",
    "species": "Streaked Rosefinch",
    "name_zh": "拟大朱雀",
    "scientific_name": "Carpodacus rubicilloides",
@@ -2389,8 +2383,8 @@
    "source": "stickers/Passeriformes/Fringillidae/Carpodacus_rubicilloides.webp"
   },
   {
-   "id": 240,
-   "path": "birds/240.png",
+   "id": 239,
+   "path": "birds/239.png",
    "species": "McKay's Bunting",
    "name_zh": "麦氏鹀",
    "scientific_name": "Plectrophenax hyperboreus",
@@ -2399,8 +2393,8 @@
    "source": "stickers/Passeriformes/Calcariidae/Plectrophenax_hyperboreus.webp"
   },
   {
-   "id": 241,
-   "path": "birds/241.png",
+   "id": 240,
+   "path": "birds/240.png",
    "species": "Rosy Thrush-tanager",
    "name_zh": "鸫唐纳雀",
    "scientific_name": "Rhodinocichla rosea",
@@ -2409,8 +2403,8 @@
    "source": "stickers/Passeriformes/Rhodinocichlidae/Rhodinocichla_rosea.webp"
   },
   {
-   "id": 242,
-   "path": "birds/242.png",
+   "id": 241,
+   "path": "birds/241.png",
    "species": "Yellow-browed Bunting",
    "name_zh": "黄眉鹀",
    "scientific_name": "Emberiza chrysophrys",
@@ -2419,8 +2413,8 @@
    "source": "stickers/Passeriformes/Emberizidae/Emberiza_chrysophrys.webp"
   },
   {
-   "id": 243,
-   "path": "birds/243.png",
+   "id": 242,
+   "path": "birds/242.png",
    "species": "Red Fox Sparrow",
    "name_zh": "狐色雀鹀",
    "scientific_name": "Passerella iliaca",
@@ -2429,8 +2423,8 @@
    "source": "stickers/Passeriformes/Passerellidae/Passerella_iliaca.webp"
   },
   {
-   "id": 244,
-   "path": "birds/244.png",
+   "id": 243,
+   "path": "birds/243.png",
    "species": "Western Chat-Tanager",
    "name_zh": "西䳭唐纳雀",
    "scientific_name": "Calyptophilus tertius",
@@ -2439,8 +2433,8 @@
    "source": "stickers/Passeriformes/Calyptophilidae/Calyptophilus_tertius.webp"
   },
   {
-   "id": 245,
-   "path": "birds/245.png",
+   "id": 244,
+   "path": "birds/244.png",
    "species": "Black-crowned Palm-tanager",
    "name_zh": "黑顶长尾唐纳雀",
    "scientific_name": "Phaenicophilus palmarum",
@@ -2449,8 +2443,8 @@
    "source": "stickers/Passeriformes/Phaenicophilidae/Phaenicophilus_palmarum.webp"
   },
   {
-   "id": 246,
-   "path": "birds/246.png",
+   "id": 245,
+   "path": "birds/245.png",
    "species": "Wrenthrush",
    "name_zh": "冠鹩森莺",
    "scientific_name": "Zeledonia coronata",
@@ -2459,8 +2453,8 @@
    "source": "stickers/Passeriformes/Zeledoniidae/Zeledonia_coronata.webp"
   },
   {
-   "id": 247,
-   "path": "birds/247.png",
+   "id": 246,
+   "path": "birds/246.png",
    "species": "Oriente Warbler",
    "name_zh": "灰森莺",
    "scientific_name": "Teretistris fornsi",
@@ -2469,8 +2463,8 @@
    "source": "stickers/Passeriformes/Teretistridae/Teretistris_fornsi.webp"
   },
   {
-   "id": 248,
-   "path": "birds/248.png",
+   "id": 247,
+   "path": "birds/247.png",
    "species": "White-browed Meadowlark",
    "name_zh": "白眉草地鹨",
    "scientific_name": "Leistes superciliaris",
@@ -2479,14 +2473,30 @@
    "source": "stickers/Passeriformes/Icteridae/Leistes_superciliaris.webp"
   },
   {
-   "id": 249,
-   "path": "birds/249.png",
+   "id": 248,
+   "path": "birds/248.png",
    "species": "Black-throated Green Warbler",
    "name_zh": "黑喉绿林莺",
    "scientific_name": "Setophaga virens",
    "family": "Parulidae",
    "order": "Passeriformes",
    "source": "stickers/Passeriformes/Parulidae/Setophaga_virens.webp"
+  },
+  {
+   "id": 249,
+   "path": "birds/249.png",
+   "species": "Red-billed Pied Tanager",
+   "name_zh": "红嘴唐纳雀",
+   "scientific_name": "Lamprospiza melanoleuca",
+   "family": "Mitrospingidae",
+   "order": "Passeriformes",
+   "source": "stickers/Passeriformes/Mitrospingidae/Lamprospiza_melanoleuca.webp"
+  },
+  {
+   "id": 250,
+   "path": "birds/250.png",
+   "species": "sample-01 (style anchor, duck-like)",
+   "source": "samples/bird-01.png"
   }
  ],
  "easter": {
@@ -2494,5 +2504,5 @@
   "variant": "bike",
   "species": "Great White Pelican"
  },
- "total": 250
+ "total": 251
 }

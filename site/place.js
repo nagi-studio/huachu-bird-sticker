@@ -1,17 +1,19 @@
 /**
  * Pure layout for Where's Huachu.
  *
- * `size` is the sticker's longest side. The target is always the smaller
- * huachu bike (thumb made from /easter/huachu-bike.png). Distractors may
- * include cycling birds 003–008, including 007, which shares art with the
- * easter file but is never the target.
+ * `size` is the sticker's longest side. The target is always the special
+ * huachu bird (sticker 250: round bird, bucket hat, round glasses), drawn a
+ * bit smaller than its neighbours. It never appears as a distractor. Cycling
+ * birds 002–007 may show up as distractors only; the cycling easter sticker
+ * (/easter/huachu-bike.png) is not part of the hunt.
  */
 
-export const BIRD_COUNT = 249;
+export const BIRD_COUNT = 250;
 export const MAX_BIRDS = 84;
-export const TARGET_SRC = "/site/assets/thumbs/huachu.webp";
-export const TARGET_FULL = "/easter/huachu-bike.png";
-const BIKES = [3, 4, 5, 6, 7, 8];
+export const TARGET_ID = 250;
+export const TARGET_SRC = "/assets/thumbs/250.webp";
+export const TARGET_FULL = "/birds/250.png";
+const BIKES = [2, 3, 4, 5, 6, 7];
 
 export function mulberry32(seed) {
   let a = seed >>> 0;
@@ -54,7 +56,7 @@ export function gridFor(width, height) {
 }
 
 export function distractorSrc(id) {
-  return `/site/assets/thumbs/${String(id).padStart(3, "0")}.webp`;
+  return `/assets/thumbs/${String(id).padStart(3, "0")}.webp`;
 }
 
 export function fullSrc(id) {
@@ -62,11 +64,11 @@ export function fullSrc(id) {
 }
 
 export function pickDistractorIds(count, rng) {
-  const total = Math.max(0, Math.min(BIRD_COUNT, count | 0));
+  const total = Math.max(0, Math.min(BIRD_COUNT - 1, count | 0));
   if (total === 0) return [];
   const bikeTake = Math.min(total, 1 + Math.floor(rng() * 2));
   const bikes = shuffle(BIKES, rng).slice(0, bikeTake);
-  const taken = new Set(bikes);
+  const taken = new Set([TARGET_ID, ...bikes]);
   const pool = [];
   for (let id = 1; id <= BIRD_COUNT; id += 1) {
     if (!taken.has(id)) pool.push(id);
@@ -104,7 +106,7 @@ export function buildRound(width, height, rng) {
   for (const item of items) {
     if (item.isTarget) {
       item.src = TARGET_SRC;
-      item.birdId = null;
+      item.birdId = TARGET_ID;
     } else {
       const id = ids[cursor];
       cursor += 1;

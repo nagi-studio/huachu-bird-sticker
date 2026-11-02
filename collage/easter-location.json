@@ -1,0 +1,24 @@
+{
+ "x": 4006,
+ "y": 1606,
+ "w": 277,
+ "h": 355,
+ "center_x": 4145,
+ "center_y": 1784,
+ "scale": 0.39,
+ "median_bird_scale": 0.65,
+ "relative_to_median": 0.6,
+ "rotation_deg": -0.64,
+ "center_frac": [
+  0.768,
+  0.496
+ ],
+ "full_image": "wally-full.jpg",
+ "full_size": [
+  5400,
+  3600
+ ],
+ "web_image": "wally-web.jpg",
+ "web_scale": 0.4740740740740741,
+ "seed": 42
+}

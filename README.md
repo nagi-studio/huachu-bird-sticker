@@ -81,3 +81,5 @@ git clone https://github.com/nagi-studio/huachu-bird-sticker.git
 [huashu.dog](https://huashu.dog) — 观鸟 + Where's Huachu。静态站点在 `site/`。**观鸟**浏览全部 249 张贴纸；**Where's Huachu** 每一局把贴纸重新铺开，目标始终是较小的 `easter/huachu-bike.png`。
 
 音效是 Kenney Interface Sounds（CC0）。画廊、寻鸟、庆祝分别用 PhotoSwipe、PixiJS、canvas-confetti。
+
+如有雷同，纯属巧合。

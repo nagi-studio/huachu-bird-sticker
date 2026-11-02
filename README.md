@@ -16,6 +16,12 @@
 
 当然，我们本来也不是——严肃的博物学图鉴里哪有全员戴渔夫帽的。像素本人已与严肃生物学、野外识别、保护等级彻底脱钩。想认鸟、查分布，请去翻图鉴；想看一万只 AI 鸟如何整齐划一地填满名录，请去原项目；想找谁在骑车、谁在发呆、谁在思考如何安身立命，欢迎来这。
 
+## Where's Huachu
+
+![Where's Huachu collage](collage/wally-web.jpg)
+
+Full-res: `collage/wally-full.jpg`. Hidden target is the special huachu bird (small), not a bike hunt.
+
 ## 画廊
 
 原项目致力于「尽量挑彼此长得不一样的」，而我们致力于探索 AI 的另一重境界：**在跨目、跨科的巨大演化鸿沟面前，保持绝对一致的体面。** 这里展示的都是 100% 达到我们质量线的贴纸。

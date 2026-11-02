@@ -6,7 +6,7 @@
 
 <img src="collage/wally-web.jpg" alt="Where's Huachu 拼贴" width="100%">
 
-原作者在 [`huashu-bird-sticker`](https://github.com/alchaincyf/huashu-bird-sticker) 里开源了 11,064 种 AI 生成的鸟类贴纸，覆盖了地球上全部现生物种。同时，原仓库在授权里立下了规矩：贴纸随便用（含商用），唯独不能拿去做观鸟、识鸟或鸟类图鉴类的竞品；物种数据部分则走 MIT 协议。
+[`huashu-bird-sticker`](https://github.com/alchaincyf/huashu-bird-sticker) 里开源了 11,064 种 AI 生成的鸟类贴纸，覆盖了地球上全部现生物种。同时，原仓库在授权里立下了规矩：贴纸随便用（含商用），唯独不能拿去做观鸟、识鸟或鸟类图鉴类的竞品；物种数据部分则走 MIT 协议。
 
 **好的。**
 

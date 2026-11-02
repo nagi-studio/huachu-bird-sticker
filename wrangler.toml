@@ -1,0 +1,33 @@
+# haishu.dog — Cloudflare Workers Static Assets (not Pages).
+# Custom domain routes stay commented so deploy does not write DNS.
+# Attach haishu.dog from the Cloudflare account that owns the registrar zone.
+
+name = "haishu-dog"
+main = "worker/index.js"
+compatibility_date = "2026-11-02"
+
+[assets]
+directory = "."
+binding = "ASSETS"
+html_handling = "auto-trailing-slash"
+not_found_handling = "404-page"
+run_worker_first = ["/", "/index.html"]
+
+[observability]
+enabled = true
+
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+
+[observability.traces]
+enabled = true
+head_sampling_rate = 0.01
+
+# [[routes]]
+# pattern = "haishu.dog"
+# custom_domain = true
+
+# [[routes]]
+# pattern = "www.haishu.dog"
+# custom_domain = true

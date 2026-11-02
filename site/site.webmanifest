@@ -1,0 +1,16 @@
+{
+  "name": "huachu bird",
+  "short_name": "huachu",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3ecdf",
+  "theme_color": "#f3ecdf",
+  "icons": [
+    {
+      "src": "/site/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

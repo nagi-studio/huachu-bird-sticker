@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>观鸟 · huachu bird</title>
+  <meta name="description" content="huachu bird 贴纸画廊，以及 Where's Huachu。haishu.dog">
+  <link rel="canonical" href="https://haishu.dog/">
+  <meta name="theme-color" content="#f3ecdf">
+  <meta property="og:title" content="huachu bird">
+  <meta property="og:description" content="观鸟贴纸，以及 Where's Huachu。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://haishu.dog/">
+  <meta property="og:image" content="https://haishu.dog/site/apple-touch-icon.png">
+  <link rel="icon" href="/site/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/site/apple-touch-icon.png">
+  <link rel="manifest" href="/site/site.webmanifest">
+  <link rel="stylesheet" href="/site/vendor/photoswipe.css">
+  <link rel="stylesheet" href="/site/styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">跳到内容</a>
+  <header class="top">
+    <a class="brand" href="#gallery">
+      <img class="brand-mark" src="/site/favicon.svg" width="42" height="42" alt="">
+      <span>
+        <span class="brand-name">huachu bird</span>
+        <span class="brand-domain">haishu.dog</span>
+      </span>
+    </a>
+    <nav class="nav" aria-label="站点">
+      <a href="#gallery" data-view="gallery">观鸟</a>
+      <a href="#play" data-view="play">找 Huachu</a>
+    </nav>
+    <button type="button" class="mute" id="mute" aria-pressed="false" aria-label="关闭声音">
+      <svg class="icon-on" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+        <path fill="currentColor" d="M4 10h3.2L12 6.2v11.6L7.2 14H4z"/>
+        <path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M16 9.2a3.6 3.6 0 0 1 0 5.6M18.2 7a6.4 6.4 0 0 1 0 10"/>
+      </svg>
+      <svg class="icon-off" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+        <path fill="currentColor" d="M4 10h3.2L12 6.2v11.6L7.2 14H4z"/>
+        <path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M16 10l4 4m0-4-4 4"/>
+      </svg>
+      <span class="mute-label">声音</span>
+    </button>
+  </header>
+  <main id="content">
+    <section id="gallery-view">
+      <div class="wrap">
+        <div class="hero">
+          <div>
+            <p class="eyebrow" lang="en">huachu bird · sticker shelf</p>
+            <h1>观鸟</h1>
+            <p class="lede">249 张渔夫帽贴纸。点开看大图。<span lang="en">A sticker shelf, not a field guide.</span></p>
+          </div>
+          <p class="stamp" aria-hidden="true"><span>249</span>birds</p>
+        </div>
+        <div class="toolbar">
+          <label class="search">
+            <span class="sr">搜索贴纸</span>
+            <input id="q" type="search" placeholder="搜索名字或编号" autocomplete="off" enterkeyhint="search">
+          </label>
+          <div class="filters" role="group" aria-label="筛选">
+            <button type="button" id="filter-all" aria-pressed="true">全部</button>
+            <button type="button" id="filter-bike" aria-pressed="false">骑行</button>
+          </div>
+          <p class="count" id="shown">249 / 249</p>
+        </div>
+        <p class="status" id="gallery-status">正在把贴纸铺开…</p>
+        <p class="status" id="gallery-empty" hidden>没有这只鸟。</p>
+        <ul class="grid" id="gallery"></ul>
+        <noscript><p>需要 JavaScript 才能翻这本贴纸。</p></noscript>
+      </div>
+    </section>
+    <section id="play-view" hidden>
+      <div class="play-head">
+        <div>
+          <p class="eyebrow" lang="en">find the small cyclist</p>
+          <h1>Where's Huachu</h1>
+          <p class="lede">Huachu 骑着车混在鸟群里，而且比旁边的贴纸更小。点错会轻轻晃一下。</p>
+        </div>
+        <div class="play-actions">
+          <p class="meters">
+            <span id="timer">0.0 秒</span>
+            <span id="misses">点错 0</span>
+          </p>
+          <button type="button" class="primary" id="replay">再来一局</button>
+        </div>
+      </div>
+      <div class="stage" id="stage">
+        <p class="stage-status" id="stage-status">鸟群正在落下来…</p>
+        <div class="win" id="win" hidden>
+          <p class="eyebrow">找到了</p>
+          <h2>Huachu 在这里</h2>
+          <p id="win-stats"></p>
+          <button type="button" class="primary" id="win-replay">再来一局</button>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="foot">
+    <p><strong>huachu bird</strong> · haishu.dog</p>
+    <p>贴纸是重新画的。物种名单来自 <a href="https://github.com/alchaincyf/huashu-bird-sticker">alchaincyf/huashu-bird-sticker</a>。</p>
+    <p>画廊 PhotoSwipe，寻鸟 PixiJS，庆祝 canvas-confetti。音效 <a href="https://kenney.nl/assets/interface-sounds">Kenney Interface Sounds</a>（CC0）。</p>
+  </footer>
+  <div id="live" class="sr" aria-live="polite"></div>
+  <script type="module" src="/site/main.js"></script>
+</body>
+</html>

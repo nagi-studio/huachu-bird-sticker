@@ -1,0 +1,14 @@
+Interface Sounds (1.0)
+Created/distributed by Kenney (www.kenney.nl)
+https://kenney.nl/assets/interface-sounds
+Also published at https://opengameart.org/content/interface-sounds
+
+License: Creative Commons Zero, CC0
+http://creativecommons.org/publicdomain/zero/1.0/
+
+This content is free to use in personal, educational and commercial projects.
+Credit to Kenney or www.kenney.nl is appreciated and not required.
+
+Files in this folder are short MP3 encodes of two clips from that pack:
+- miss.mp3  ← Audio/click_001.ogg  (soft miss)
+- win.mp3   ← Audio/confirmation_001.ogg  (find / win)

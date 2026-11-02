@@ -1,0 +1,15 @@
+{
+  "name": "haishu-dog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "check": "wrangler deploy --dry-run",
+    "test": "node --test test/*.test.mjs",
+    "thumbs": "python3 tools/build_thumbs.py"
+  },
+  "devDependencies": {
+    "wrangler": "^4.45.0"
+  }
+}

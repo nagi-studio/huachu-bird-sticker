@@ -73,3 +73,14 @@ git clone https://github.com/nagi-studio/huachu-bird-sticker.git
 * **数据致谢：** 物种清单源自 [`alchaincyf/huashu-bird-sticker`](https://github.com/alchaincyf/huashu-bird-sticker)（数据 MIT）。
 * **合规声明：** 原项目贴纸受 PolyForm Shield 1.0.0 保护，禁止用于观鸟/识鸟竞品。本项目一未用原图，二全员戴帽骑车，从法理到生物学均已彻底排除成为竞品的可能。
 * **灵感缪斯：** 感谢原作者关于「认知与审美」的公开探讨。希望这 250 顶渔夫帽，没有辜负这个时代。
+
+## Website
+
+[haishu.dog](https://haishu.dog) 的静态站点在 `site/`。**观鸟**浏览全部 249 张贴纸；**Where's Huachu** 每一局把贴纸重新铺开，目标始终是较小的 `easter/huachu-bike.png`。部署用 Cloudflare Workers Static Assets（Worker 名 `haishu-dog`），不是 Pages。
+
+```bash
+npm install
+npx wrangler dev
+```
+
+自定义域名在持有该域名的 Cloudflare 账号里绑到这个 Worker。`wrangler.toml` 里的 custom domain 默认注释掉，避免在别的账号上改 DNS。音效是 Kenney Interface Sounds（CC0）。画廊、寻鸟、庆祝分别用 PhotoSwipe、PixiJS、canvas-confetti。

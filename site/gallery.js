@@ -1,10 +1,10 @@
 import PhotoSwipeLightbox from "./vendor/photoswipe-lightbox.esm.min.js";
 import { fullSrc } from "./place.js";
 
-export async function mountGallery(root, status, empty, shown, search, filterAll, filterBike) {
+export async function mountGallery(root, status, empty, shown, search, filterAll, filterBike, filterHuachu) {
   let birds = [];
   try {
-    const response = await fetch("/site/birds.json");
+    const response = await fetch("/birds.json");
     if (!response.ok) throw new Error(String(response.status));
     birds = (await response.json()).birds;
   } catch {
@@ -24,9 +24,10 @@ export async function mountGallery(root, status, empty, shown, search, filterAll
     const hay = `${bird.id} ${Number(bird.id)} ${bird.name} ${bird.en} ${bird.sci}`.toLowerCase();
     link.dataset.hay = hay;
     link.dataset.bike = bird.bike ? "1" : "0";
+    link.dataset.huachu = bird.id === "250" || String(bird.name).toLowerCase() === "huachu" ? "1" : "0";
 
     const img = document.createElement("img");
-    img.src = `/site/assets/thumbs/${bird.id}.webp`;
+    img.src = `/assets/thumbs/${bird.id}.webp`;
     img.alt = bird.bike ? `${bird.id} ${bird.name}，骑行` : `${bird.id} ${bird.name}`;
     img.width = 480;
     img.height = 480;
@@ -52,7 +53,12 @@ export async function mountGallery(root, status, empty, shown, search, filterAll
       sci.textContent = bird.sci;
       cap.append(sci);
     }
-    if (bird.bike) {
+    if (link.dataset.huachu === "1") {
+      const badge = document.createElement("span");
+      badge.className = "badge";
+      badge.textContent = "huachu";
+      cap.append(badge);
+    } else if (bird.bike) {
       const badge = document.createElement("span");
       badge.className = "badge";
       badge.textContent = "骑行";
@@ -106,15 +112,24 @@ export async function mountGallery(root, status, empty, shown, search, filterAll
   });
   lightbox.init();
 
-  let bikeOnly = false;
+  let mode = "all";
+
+  function setPressed() {
+    filterAll.setAttribute("aria-pressed", mode === "all" ? "true" : "false");
+    filterBike.setAttribute("aria-pressed", mode === "bike" ? "true" : "false");
+    filterHuachu.setAttribute("aria-pressed", mode === "huachu" ? "true" : "false");
+  }
 
   function apply() {
     const query = search.value.trim().toLowerCase();
     let visible = 0;
     for (const card of cards) {
       const match = !query || card.link.dataset.hay.includes(query);
-      const bike = !bikeOnly || card.link.dataset.bike === "1";
-      const show = match && bike;
+      const kind =
+        mode === "all" ||
+        (mode === "bike" && card.link.dataset.bike === "1") ||
+        (mode === "huachu" && card.link.dataset.huachu === "1");
+      const show = match && kind;
       card.item.hidden = !show;
       if (show) visible += 1;
     }
@@ -124,16 +139,20 @@ export async function mountGallery(root, status, empty, shown, search, filterAll
 
   search.addEventListener("input", apply);
   filterAll.addEventListener("click", () => {
-    bikeOnly = false;
-    filterAll.setAttribute("aria-pressed", "true");
-    filterBike.setAttribute("aria-pressed", "false");
+    mode = "all";
+    setPressed();
     apply();
   });
   filterBike.addEventListener("click", () => {
-    bikeOnly = true;
-    filterAll.setAttribute("aria-pressed", "false");
-    filterBike.setAttribute("aria-pressed", "true");
+    mode = "bike";
+    setPressed();
     apply();
   });
+  filterHuachu.addEventListener("click", () => {
+    mode = "huachu";
+    setPressed();
+    apply();
+  });
+  setPressed();
   apply();
 }

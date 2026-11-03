@@ -88,4 +88,5 @@ mountGallery(
   document.querySelector("#q"),
   document.querySelector("#filter-all"),
   document.querySelector("#filter-bike"),
+  document.querySelector("#filter-huachu"),
 );

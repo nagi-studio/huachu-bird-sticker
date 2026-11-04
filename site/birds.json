@@ -4,7 +4,7 @@
       "id": "001",
       "name": "白花",
       "en": "White Stork",
-      "sci": "Ciconia ciconia",
+      "sci": "Ciconia huacico",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -13,7 +13,7 @@
       "id": "002",
       "name": "普通翠花",
       "en": "Common Kingfisher",
-      "sci": "Alcedo atthis",
+      "sci": "Alcedo huaatth",
       "w": 1254,
       "h": 1254,
       "bike": true
@@ -22,7 +22,7 @@
       "id": "003",
       "name": "欧亚喜花",
       "en": "Eurasian Magpie",
-      "sci": "Pica pica",
+      "sci": "Pica huapica",
       "w": 1536,
       "h": 1024,
       "bike": true
@@ -31,7 +31,7 @@
       "id": "004",
       "name": "雕花",
       "en": "Eurasian Eagle-Owl",
-      "sci": "Bubo bubo",
+      "sci": "Bubo huabubo",
       "w": 1222,
       "h": 1287,
       "bike": true
@@ -40,7 +40,7 @@
       "id": "005",
       "name": "绯红金刚鹦花",
       "en": "Scarlet Macaw",
-      "sci": "Ara macao",
+      "sci": "Ara huamaca",
       "w": 1774,
       "h": 887,
       "bike": true
@@ -49,7 +49,7 @@
       "id": "006",
       "name": "白鹈花",
       "en": "Great White Pelican",
-      "sci": "Pelecanus onocrotalus",
+      "sci": "Pelecanus huaonoc",
       "w": 1254,
       "h": 1254,
       "bike": true
@@ -58,7 +58,7 @@
       "id": "007",
       "name": "雀花",
       "en": "Eurasian Sparrowhawk",
-      "sci": "Accipiter nisus",
+      "sci": "Accipiter huanisu",
       "w": 1238,
       "h": 1271,
       "bike": true
@@ -67,7 +67,7 @@
       "id": "008",
       "name": "非洲鸵花",
       "en": "Common Ostrich",
-      "sci": "Struthio camelus",
+      "sci": "Struthio huacame",
       "w": 1172,
       "h": 1342,
       "bike": false
@@ -76,7 +76,7 @@
       "id": "009",
       "name": "大美洲花",
       "en": "Greater Rhea",
-      "sci": "Rhea americana",
+      "sci": "Rhea huaamer",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -85,7 +85,7 @@
       "id": "010",
       "name": "大斑几花",
       "en": "Great Spotted Kiwi",
-      "sci": "Apteryx maxima",
+      "sci": "Apteryx huamaxi",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -94,7 +94,7 @@
       "id": "011",
       "name": "单垂鹤花",
       "en": "Northern Cassowary",
-      "sci": "Casuarius unappendiculatus",
+      "sci": "Casuarius huaunap",
       "w": 1159,
       "h": 1356,
       "bike": false
@@ -103,7 +103,7 @@
       "id": "012",
       "name": "红翅花",
       "en": "Red-winged Tinamou",
-      "sci": "Rhynchotus rufescens",
+      "sci": "Rhynchotus huarufe",
       "w": 1142,
       "h": 1377,
       "bike": false
@@ -112,7 +112,7 @@
       "id": "013",
       "name": "冠叫花",
       "en": "Southern Screamer",
-      "sci": "Chauna torquata",
+      "sci": "Chauna huatorq",
       "w": 1190,
       "h": 1322,
       "bike": false
@@ -121,7 +121,7 @@
       "id": "014",
       "name": "鹊花",
       "en": "Magpie Goose",
-      "sci": "Anseranas semipalmata",
+      "sci": "Anseranas huasemi",
       "w": 2048,
       "h": 768,
       "bike": false
@@ -130,7 +130,7 @@
       "id": "015",
       "name": "白脸树花",
       "en": "White-faced Whistling Duck",
-      "sci": "Dendrocygna viduata",
+      "sci": "Dendrocygna huavidu",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -139,7 +139,7 @@
       "id": "016",
       "name": "马岛塚花",
       "en": "Micronesian Megapode",
-      "sci": "Megapodius laperouse",
+      "sci": "Megapodius hualape",
       "w": 1235,
       "h": 1274,
       "bike": false
@@ -148,7 +148,7 @@
       "id": "017",
       "name": "红喉鸣冠花",
       "en": "Red-throated Piping Guan",
-      "sci": "Pipile cujubi",
+      "sci": "Pipile huacuju",
       "w": 1385,
       "h": 1136,
       "bike": false
@@ -157,7 +157,7 @@
       "id": "018",
       "name": "冠珠花",
       "en": "Eastern Crested Guineafowl",
-      "sci": "Guttera pucherani",
+      "sci": "Guttera huapuch",
       "w": 1174,
       "h": 1339,
       "bike": false
@@ -166,7 +166,7 @@
       "id": "019",
       "name": "石花",
       "en": "Stone Partridge",
-      "sci": "Ptilopachus petrosus",
+      "sci": "Ptilopachus huapetr",
       "w": 1414,
       "h": 1113,
       "bike": false
@@ -175,7 +175,7 @@
       "id": "020",
       "name": "黑头角花",
       "en": "Western Tragopan",
-      "sci": "Tragopan melanocephalus",
+      "sci": "Tragopan huamela",
       "w": 1238,
       "h": 1271,
       "bike": false
@@ -184,7 +184,7 @@
       "id": "021",
       "name": "普通夜花",
       "en": "Grey Nightjar",
-      "sci": "Caprimulgus jotaka",
+      "sci": "Caprimulgus huajota",
       "w": 1668,
       "h": 943,
       "bike": false
@@ -193,7 +193,7 @@
       "id": "022",
       "name": "油夜花",
       "en": "Oilbird",
-      "sci": "Steatornis caripensis",
+      "sci": "Steatornis huacari",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -202,7 +202,7 @@
       "id": "023",
       "name": "白翅钩嘴夜花",
       "en": "White-winged Potoo",
-      "sci": "Nyctibius leucopterus",
+      "sci": "Nyctibius hualeuc",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -211,7 +211,7 @@
       "id": "024",
       "name": "巴布亚蛙口夜花",
       "en": "Papuan Frogmouth",
-      "sci": "Podargus papuensis",
+      "sci": "Podargus huapapu",
       "w": 1065,
       "h": 1477,
       "bike": false
@@ -220,7 +220,7 @@
       "id": "025",
       "name": "新喀裸鼻夜花",
       "en": "New Caledonian Owlet-nightjar",
-      "sci": "Aegotheles savesi",
+      "sci": "Aegotheles huasave",
       "w": 1080,
       "h": 1456,
       "bike": false
@@ -229,7 +229,7 @@
       "id": "026",
       "name": "凤头雨花",
       "en": "Crested Treeswift",
-      "sci": "Hemiprocne coronata",
+      "sci": "Hemiprocne huacoro",
       "w": 1024,
       "h": 1536,
       "bike": false
@@ -238,7 +238,7 @@
       "id": "027",
       "name": "栗领黑雨花",
       "en": "Chestnut-collared Swift",
-      "sci": "Streptoprocne rutila",
+      "sci": "Streptoprocne huaruti",
       "w": 1246,
       "h": 1263,
       "bike": false
@@ -247,7 +247,7 @@
       "id": "028",
       "name": "紫蓝妆脸蜂花",
       "en": "Hyacinth Visorbearer",
-      "sci": "Augastes scutatus",
+      "sci": "Augastes huascut",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -256,7 +256,7 @@
       "id": "029",
       "name": "蓝冠蕉花",
       "en": "Hartlaub's Turaco",
-      "sci": "Tauraco hartlaubi",
+      "sci": "Tauraco huahart",
       "w": 1227,
       "h": 1281,
       "bike": false
@@ -265,7 +265,7 @@
       "id": "030",
       "name": "大花",
       "en": "Great Bustard",
-      "sci": "Otis tarda",
+      "sci": "Otis huatard",
       "w": 1157,
       "h": 1360,
       "bike": false
@@ -274,7 +274,7 @@
       "id": "031",
       "name": "噪花",
       "en": "Asian Koel",
-      "sci": "Eudynamys scolopaceus",
+      "sci": "Eudynamys huascol",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -283,7 +283,7 @@
       "id": "032",
       "name": "本氏拟花",
       "en": "Subdesert Mesite",
-      "sci": "Monias benschi",
+      "sci": "Monias huabens",
       "w": 1665,
       "h": 945,
       "bike": false
@@ -292,7 +292,7 @@
       "id": "033",
       "name": "二斑沙花",
       "en": "Double-banded Sandgrouse",
-      "sci": "Pterocles bicinctus",
+      "sci": "Pterocles huabici",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -301,7 +301,7 @@
       "id": "034",
       "name": "灰林花",
       "en": "Ashy Wood Pigeon",
-      "sci": "Columba pulchricollis",
+      "sci": "Columba huapulc",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -310,7 +310,7 @@
       "id": "035",
       "name": "日花",
       "en": "Sungrebe",
-      "sci": "Heliornis fulica",
+      "sci": "Heliornis huafuli",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -319,7 +319,7 @@
       "id": "036",
       "name": "白斑侏秧花",
       "en": "White-spotted Flufftail",
-      "sci": "Sarothrura pulchra",
+      "sci": "Sarothrura huapulc",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -328,7 +328,7 @@
       "id": "037",
       "name": "黑背紫水花",
       "en": "Black-backed Swamphen",
-      "sci": "Porphyrio indicus",
+      "sci": "Porphyrio huaindi",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -337,7 +337,7 @@
       "id": "038",
       "name": "灰翅喇叭声花",
       "en": "Grey-winged Trumpeter",
-      "sci": "Psophia crepitans",
+      "sci": "Psophia huacrep",
       "w": 1161,
       "h": 1354,
       "bike": false
@@ -346,7 +346,7 @@
       "id": "039",
       "name": "白枕花",
       "en": "White-naped Crane",
-      "sci": "Antigone vipio",
+      "sci": "Antigone huavipi",
       "w": 1117,
       "h": 1409,
       "bike": false
@@ -355,7 +355,7 @@
       "id": "040",
       "name": "秧花",
       "en": "Limpkin",
-      "sci": "Aramus guarauna",
+      "sci": "Aramus huaguar",
       "w": 1138,
       "h": 1382,
       "bike": false
@@ -364,7 +364,7 @@
       "id": "041",
       "name": "小䴙花",
       "en": "Little Grebe",
-      "sci": "Tachybaptus ruficollis",
+      "sci": "Tachybaptus huarufi",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -373,7 +373,7 @@
       "id": "042",
       "name": "小红花",
       "en": "Lesser Flamingo",
-      "sci": "Phoeniconaias minor",
+      "sci": "Phoeniconaias huamino",
       "w": 1774,
       "h": 887,
       "bike": false
@@ -382,7 +382,7 @@
       "id": "043",
       "name": "林三趾花",
       "en": "Common Buttonquail",
-      "sci": "Turnix sylvaticus",
+      "sci": "Turnix huasylv",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -391,7 +391,7 @@
       "id": "044",
       "name": "斑石花",
       "en": "Spotted Thick-knee",
-      "sci": "Burhinus capensis",
+      "sci": "Burhinus huacape",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -400,7 +400,7 @@
       "id": "045",
       "name": "短腿花",
       "en": "Magellanic Plover",
-      "sci": "Pluvianellus socialis",
+      "sci": "Pluvianellus huasoci",
       "w": 1351,
       "h": 1164,
       "bike": false
@@ -409,7 +409,7 @@
       "id": "046",
       "name": "黑脸鞘嘴花",
       "en": "Black-faced Sheathbill",
-      "sci": "Chionis minor",
+      "sci": "Chionis huamino",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -418,7 +418,7 @@
       "id": "047",
       "name": "蛎花",
       "en": "Eurasian Oystercatcher",
-      "sci": "Haematopus ostralegus",
+      "sci": "Haematopus huaostr",
       "w": 1447,
       "h": 1087,
       "bike": false
@@ -427,7 +427,7 @@
       "id": "048",
       "name": "鹮嘴花",
       "en": "Ibisbill",
-      "sci": "Ibidorhyncha struthersii",
+      "sci": "Ibidorhyncha huastru",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -436,7 +436,7 @@
       "id": "049",
       "name": "黑翅长脚花",
       "en": "Black-winged Stilt",
-      "sci": "Himantopus himantopus",
+      "sci": "Himantopus huahima",
       "w": 1140,
       "h": 1380,
       "bike": false
@@ -445,7 +445,7 @@
       "id": "050",
       "name": "灰斑花",
       "en": "Grey Plover",
-      "sci": "Pluvialis squatarola",
+      "sci": "Pluvialis huasqua",
       "w": 1305,
       "h": 1206,
       "bike": false
@@ -454,7 +454,7 @@
       "id": "051",
       "name": "蓝腿燕花",
       "en": "Egyptian Plover",
-      "sci": "Pluvianus aegyptius",
+      "sci": "Pluvianus huaaegy",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -463,7 +463,7 @@
       "id": "052",
       "name": "彩花",
       "en": "Greater Painted-snipe",
-      "sci": "Rostratula benghalensis",
+      "sci": "Rostratula huabeng",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -472,7 +472,7 @@
       "id": "053",
       "name": "水花",
       "en": "Pheasant-tailed Jacana",
-      "sci": "Hydrophasianus chirurgus",
+      "sci": "Hydrophasianus huachir",
       "w": 1409,
       "h": 1117,
       "bike": false
@@ -481,7 +481,7 @@
       "id": "054",
       "name": "领花",
       "en": "Plains-wanderer",
-      "sci": "Pedionomus torquatus",
+      "sci": "Pedionomus huatorq",
       "w": 1142,
       "h": 1377,
       "bike": false
@@ -490,7 +490,7 @@
       "id": "055",
       "name": "棕腹籽花",
       "en": "Rufous-bellied Seedsnipe",
-      "sci": "Attagis gayi",
+      "sci": "Attagis huagayi",
       "w": 1330,
       "h": 1182,
       "bike": false
@@ -499,7 +499,7 @@
       "id": "056",
       "name": "大滨花",
       "en": "Great Knot",
-      "sci": "Calidris tenuirostris",
+      "sci": "Calidris huatenu",
       "w": 1509,
       "h": 1042,
       "bike": false
@@ -508,7 +508,7 @@
       "id": "057",
       "name": "蟹花",
       "en": "Crab-plover",
-      "sci": "Dromas ardeola",
+      "sci": "Dromas huaarde",
       "w": 1226,
       "h": 1283,
       "bike": false
@@ -517,7 +517,7 @@
       "id": "058",
       "name": "普通燕花",
       "en": "Oriental Pratincole",
-      "sci": "Glareola maldivarum",
+      "sci": "Glareola huamald",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -526,7 +526,7 @@
       "id": "059",
       "name": "白顶玄燕花",
       "en": "Brown Noddy",
-      "sci": "Anous stolidus",
+      "sci": "Anous huastol",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -535,7 +535,7 @@
       "id": "060",
       "name": "中贼花",
       "en": "Pomarine Jaeger",
-      "sci": "Stercorarius pomarinus",
+      "sci": "Stercorarius huapoma",
       "w": 1447,
       "h": 1087,
       "bike": false
@@ -544,7 +544,7 @@
       "id": "061",
       "name": "刀嘴海花",
       "en": "Razorbill",
-      "sci": "Alca torda",
+      "sci": "Alca huatord",
       "w": 1217,
       "h": 1293,
       "bike": false
@@ -553,7 +553,7 @@
       "id": "062",
       "name": "鹭花",
       "en": "Kagu",
-      "sci": "Rhynochetos jubatus",
+      "sci": "Rhynochetos huajuba",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -562,7 +562,7 @@
       "id": "063",
       "name": "花鳽",
       "en": "Sunbittern",
-      "sci": "Eurypyga helias",
+      "sci": "Eurypyga huaheli",
       "w": 1376,
       "h": 1143,
       "bike": false
@@ -571,7 +571,7 @@
       "id": "064",
       "name": "红尾花",
       "en": "Red-tailed Tropicbird",
-      "sci": "Phaethon rubricauda",
+      "sci": "Phaethon huarubr",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -580,7 +580,7 @@
       "id": "065",
       "name": "红喉潜花",
       "en": "Red-throated Loon",
-      "sci": "Gavia stellata",
+      "sci": "Gavia huastel",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -589,7 +589,7 @@
       "id": "066",
       "name": "纹颊企花",
       "en": "Chinstrap Penguin",
-      "sci": "Pygoscelis antarcticus",
+      "sci": "Pygoscelis huaanta",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -598,7 +598,7 @@
       "id": "067",
       "name": "白腹舰海花",
       "en": "White-bellied Storm Petrel",
-      "sci": "Fregetta grallaria",
+      "sci": "Fregetta huagral",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -607,7 +607,7 @@
       "id": "068",
       "name": "阿岛信天花",
       "en": "Amsterdam Albatross",
-      "sci": "Diomedea amsterdamensis",
+      "sci": "Diomedea huaamst",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -616,7 +616,7 @@
       "id": "069",
       "name": "黑叉尾海花",
       "en": "Swinhoe's Storm Petrel",
-      "sci": "Hydrobates monorhis",
+      "sci": "Hydrobates huamono",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -625,7 +625,7 @@
       "id": "070",
       "name": "白腹圆尾花",
       "en": "Phoenix Petrel",
-      "sci": "Pterodroma alba",
+      "sci": "Pterodroma huaalba",
       "w": 1774,
       "h": 887,
       "bike": false
@@ -634,7 +634,7 @@
       "id": "071",
       "name": "花鹳",
       "en": "Black Stork",
-      "sci": "Ciconia nigra",
+      "sci": "Ciconia huanigr",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -643,7 +643,7 @@
       "id": "072",
       "name": "黑腹军舰花",
       "en": "Great Frigatebird",
-      "sci": "Fregata minor",
+      "sci": "Fregata huamino",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -652,7 +652,7 @@
       "id": "073",
       "name": "褐鲣花",
       "en": "Brown Booby",
-      "sci": "Sula leucogaster",
+      "sci": "Sula hualeuc",
       "w": 1089,
       "h": 1445,
       "bike": false
@@ -661,7 +661,7 @@
       "id": "074",
       "name": "澳洲蛇花",
       "en": "Australasian Darter",
-      "sci": "Anhinga novaehollandiae",
+      "sci": "Anhinga huanova",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -670,7 +670,7 @@
       "id": "075",
       "name": "普通鸬花",
       "en": "Great Cormorant",
-      "sci": "Phalacrocorax carbo",
+      "sci": "Phalacrocorax huacarb",
       "w": 1322,
       "h": 1190,
       "bike": false
@@ -679,7 +679,7 @@
       "id": "076",
       "name": "黑脸琵花",
       "en": "Black-faced Spoonbill",
-      "sci": "Platalea minor",
+      "sci": "Platalea huamino",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -688,7 +688,7 @@
       "id": "077",
       "name": "黑花",
       "en": "Black Bittern",
-      "sci": "Botaurus flavicollis",
+      "sci": "Botaurus huaflav",
       "w": 1222,
       "h": 1287,
       "bike": false
@@ -697,7 +697,7 @@
       "id": "078",
       "name": "锤头花",
       "en": "Hamerkop",
-      "sci": "Scopus umbretta",
+      "sci": "Scopus huaumbr",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -706,7 +706,7 @@
       "id": "079",
       "name": "鲸头花",
       "en": "Shoebill",
-      "sci": "Balaeniceps rex",
+      "sci": "Balaeniceps huarex",
       "w": 1226,
       "h": 1283,
       "bike": false
@@ -715,7 +715,7 @@
       "id": "080",
       "name": "麝花",
       "en": "Hoatzin",
-      "sci": "Opisthocomus hoazin",
+      "sci": "Opisthocomus huahoaz",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -724,7 +724,7 @@
       "id": "081",
       "name": "小黄头美洲花",
       "en": "Lesser Yellow-headed Vulture",
-      "sci": "Cathartes burrovianus",
+      "sci": "Cathartes huaburr",
       "w": 1245,
       "h": 1263,
       "bike": false
@@ -733,7 +733,7 @@
       "id": "082",
       "name": "花鹰",
       "en": "Secretarybird",
-      "sci": "Sagittarius serpentarius",
+      "sci": "Sagittarius huaserp",
       "w": 1153,
       "h": 1364,
       "bike": false
@@ -742,7 +742,7 @@
       "id": "083",
       "name": "花",
       "en": "Osprey",
-      "sci": "Pandion haliaetus",
+      "sci": "Pandion huahali",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -751,7 +751,7 @@
       "id": "084",
       "name": "马岛草花",
       "en": "Red Owl",
-      "sci": "Tyto soumagnei",
+      "sci": "Tyto huasoum",
       "w": 1132,
       "h": 1390,
       "bike": false
@@ -760,7 +760,7 @@
       "id": "085",
       "name": "红脸鼠花",
       "en": "Red-faced Mousebird",
-      "sci": "Urocolius indicus",
+      "sci": "Urocolius huaindi",
       "w": 1240,
       "h": 1269,
       "bike": false
@@ -769,7 +769,7 @@
       "id": "086",
       "name": "鹃三宝花",
       "en": "Cuckoo-roller",
-      "sci": "Leptosomus discolor",
+      "sci": "Leptosomus huadisc",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -778,7 +778,7 @@
       "id": "087",
       "name": "红头咬花",
       "en": "Red-headed Trogon",
-      "sci": "Harpactes erythrocephalus",
+      "sci": "Harpactes huaeryt",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -787,7 +787,7 @@
       "id": "088",
       "name": "戴花",
       "en": "Common Hoopoe",
-      "sci": "Upupa epops",
+      "sci": "Upupa huaepop",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -796,7 +796,7 @@
       "id": "089",
       "name": "白头林戴花",
       "en": "White-headed Wood Hoopoe",
-      "sci": "Phoeniculus bollei",
+      "sci": "Phoeniculus huaboll",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -805,7 +805,7 @@
       "id": "090",
       "name": "红脸地犀花",
       "en": "Southern Ground Hornbill",
-      "sci": "Bucorvus leadbeateri",
+      "sci": "Bucorvus hualead",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -814,7 +814,7 @@
       "id": "091",
       "name": "西棕胸佛法花",
       "en": "Indian Roller",
-      "sci": "Coracias benghalensis",
+      "sci": "Coracias huabeng",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -823,7 +823,7 @@
       "id": "092",
       "name": "栗头地三宝花",
       "en": "Rufous-headed Ground Roller",
-      "sci": "Atelornis crossleyi",
+      "sci": "Atelornis huacros",
       "w": 1421,
       "h": 1107,
       "bike": false
@@ -832,7 +832,7 @@
       "id": "093",
       "name": "杂色短尾花",
       "en": "Cuban Tody",
-      "sci": "Todus multicolor",
+      "sci": "Todus huamult",
       "w": 1293,
       "h": 1216,
       "bike": false
@@ -841,7 +841,7 @@
       "id": "094",
       "name": "绿眉翠花",
       "en": "Turquoise-browed Motmot",
-      "sci": "Eumomota superciliosa",
+      "sci": "Eumomota huasupe",
       "w": 1225,
       "h": 1284,
       "bike": false
@@ -850,7 +850,7 @@
       "id": "095",
       "name": "栗头蜂花",
       "en": "Chestnut-headed Bee-eater",
-      "sci": "Merops leschenaulti",
+      "sci": "Merops hualesc",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -859,7 +859,7 @@
       "id": "096",
       "name": "三趾鹟花",
       "en": "Three-toed Jacamar",
-      "sci": "Jacamaralcyon tridactyla",
+      "sci": "Jacamaralcyon huatrid",
       "w": 1210,
       "h": 1300,
       "bike": false
@@ -868,7 +868,7 @@
       "id": "097",
       "name": "斑背蓬头花",
       "en": "Spot-backed Puffbird",
-      "sci": "Nystalus maculatus",
+      "sci": "Nystalus huamacu",
       "w": 1271,
       "h": 1238,
       "bike": false
@@ -877,7 +877,7 @@
       "id": "098",
       "name": "红头拟啄木花",
       "en": "Red-headed Barbet",
-      "sci": "Eubucco bourcierii",
+      "sci": "Eubucco huabour",
       "w": 1774,
       "h": 887,
       "bike": false
@@ -886,7 +886,7 @@
       "id": "099",
       "name": "巨嘴拟啄木花",
       "en": "Toucan Barbet",
-      "sci": "Semnornis ramphastinus",
+      "sci": "Semnornis huaramp",
       "w": 1310,
       "h": 1200,
       "bike": false
@@ -895,7 +895,7 @@
       "id": "100",
       "name": "冠山巨嘴花",
       "en": "Hooded Mountain Toucan",
-      "sci": "Andigena cucullata",
+      "sci": "Andigena huacucu",
       "w": 1381,
       "h": 1139,
       "bike": false
@@ -904,7 +904,7 @@
       "id": "101",
       "name": "大拟啄木花",
       "en": "Great Barbet",
-      "sci": "Psilopogon virens",
+      "sci": "Psilopogon huavire",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -913,7 +913,7 @@
       "id": "102",
       "name": "黄胸拟啄木花",
       "en": "Yellow-breasted Barbet",
-      "sci": "Trachyphonus margaritatus",
+      "sci": "Trachyphonus huamarg",
       "w": 1402,
       "h": 1122,
       "bike": false
@@ -922,7 +922,7 @@
       "id": "103",
       "name": "中非响蜜花",
       "en": "Zenker's Honeyguide",
-      "sci": "Melignomon zenkeri",
+      "sci": "Melignomon huazenk",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -931,7 +931,7 @@
       "id": "104",
       "name": "蚁花",
       "en": "Eurasian Wryneck",
-      "sci": "Jynx torquilla",
+      "sci": "Jynx huatorq",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -940,7 +940,7 @@
       "id": "105",
       "name": "红腿叫花",
       "en": "Red-legged Seriema",
-      "sci": "Cariama cristata",
+      "sci": "Cariama huacris",
       "w": 1240,
       "h": 1269,
       "bike": false
@@ -949,7 +949,7 @@
       "id": "106",
       "name": "红脚花",
       "en": "Amur Falcon",
-      "sci": "Falco amurensis",
+      "sci": "Falco huaamur",
       "w": 1095,
       "h": 1436,
       "bike": false
@@ -958,7 +958,7 @@
       "id": "107",
       "name": "啄羊鹦花",
       "en": "Kea",
-      "sci": "Nestor notabilis",
+      "sci": "Nestor huanota",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -967,7 +967,7 @@
       "id": "108",
       "name": "小葵花鹦鹉",
       "en": "Yellow-crested Cockatoo",
-      "sci": "Cacatua sulphurea",
+      "sci": "Cacatua huasulp",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -976,7 +976,7 @@
       "id": "109",
       "name": "亚历山大鹦花",
       "en": "Alexandrine Parakeet",
-      "sci": "Psittacula eupatria",
+      "sci": "Psittacula huaeupa",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -985,7 +985,7 @@
       "id": "110",
       "name": "刺花",
       "en": "Rifleman",
-      "sci": "Acanthisitta chloris",
+      "sci": "Acanthisitta huachlo",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -994,7 +994,7 @@
       "id": "111",
       "name": "阔嘴霸花",
       "en": "Sapayoa",
-      "sci": "Sapayoa aenigma",
+      "sci": "Sapayoa huaaeni",
       "w": 1291,
       "h": 1218,
       "bike": false
@@ -1003,7 +1003,7 @@
       "id": "112",
       "name": "施氏裸眉花",
       "en": "Schlegel's Asity",
-      "sci": "Philepitta schlegeli",
+      "sci": "Philepitta huaschl",
       "w": 1216,
       "h": 1293,
       "bike": false
@@ -1012,7 +1012,7 @@
       "id": "113",
       "name": "银胸丝冠花",
       "en": "Silver-breasted Broadbill",
-      "sci": "Serilophus lunatus",
+      "sci": "Serilophus hualuna",
       "w": 1230,
       "h": 1278,
       "bike": false
@@ -1021,7 +1021,7 @@
       "id": "114",
       "name": "灰头阔嘴花",
       "en": "Grey-headed Broadbill",
-      "sci": "Smithornis sharpei",
+      "sci": "Smithornis huashar",
       "w": 1281,
       "h": 1227,
       "bike": false
@@ -1030,7 +1030,7 @@
       "id": "115",
       "name": "尼科巴绿胸八色花",
       "en": "Nicobar Hooded Pitta",
-      "sci": "Pitta abbotti",
+      "sci": "Pitta huaabbo",
       "w": 1230,
       "h": 1278,
       "bike": false
@@ -1039,7 +1039,7 @@
       "id": "116",
       "name": "查科爬地花",
       "en": "Chaco Earthcreeper",
-      "sci": "Tarphonomus certhioides",
+      "sci": "Tarphonomus huacert",
       "w": 1394,
       "h": 1128,
       "bike": false
@@ -1048,7 +1048,7 @@
       "id": "117",
       "name": "纹背蚁花",
       "en": "Stripe-backed Antbird",
-      "sci": "Myrmorchilus strigilatus",
+      "sci": "Myrmorchilus huastri",
       "w": 1296,
       "h": 1214,
       "bike": false
@@ -1057,7 +1057,7 @@
       "id": "118",
       "name": "棕顶蚁花",
       "en": "Rufous-capped Antthrush",
-      "sci": "Formicarius colma",
+      "sci": "Formicarius huacolm",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1066,7 +1066,7 @@
       "id": "119",
       "name": "若克蚁花",
       "en": "Jocotoco Antpitta",
-      "sci": "Grallaria ridgelyi",
+      "sci": "Grallaria huaridg",
       "w": 1230,
       "h": 1278,
       "bike": false
@@ -1075,7 +1075,7 @@
       "id": "120",
       "name": "黑胸食蚊花",
       "en": "Black-breasted Gnateater",
-      "sci": "Conopophaga snethlageae",
+      "sci": "Conopophaga huasnet",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1084,7 +1084,7 @@
       "id": "121",
       "name": "高原窜花",
       "en": "Planalto Tapaculo",
-      "sci": "Scytalopus pachecoi",
+      "sci": "Scytalopus huapach",
       "w": 1309,
       "h": 1201,
       "bike": false
@@ -1093,7 +1093,7 @@
       "id": "122",
       "name": "领月胸窜花",
       "en": "Collared Crescentchest",
-      "sci": "Melanopareia torquata",
+      "sci": "Melanopareia huatorq",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1102,7 +1102,7 @@
       "id": "123",
       "name": "锈背蒙霸花",
       "en": "Rusty-backed Monjita",
-      "sci": "Neoxolmis rubetra",
+      "sci": "Neoxolmis huarube",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1111,7 +1111,7 @@
       "id": "124",
       "name": "红胸食果伞花",
       "en": "Scarlet-breasted Fruiteater",
-      "sci": "Pipreola frontalis",
+      "sci": "Pipreola huafron",
       "w": 1316,
       "h": 1195,
       "bike": false
@@ -1120,7 +1120,7 @@
       "id": "125",
       "name": "蓝背娇花",
       "en": "Blue-backed Manakin",
-      "sci": "Chiroxiphia pareola",
+      "sci": "Chiroxiphia huapare",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1129,7 +1129,7 @@
       "id": "126",
       "name": "绿背厚嘴霸花",
       "en": "Green-backed Becard",
-      "sci": "Pachyramphus viridis",
+      "sci": "Pachyramphus huaviri",
       "w": 1983,
       "h": 793,
       "bike": false
@@ -1138,7 +1138,7 @@
       "id": "127",
       "name": "尖喙霸花",
       "en": "Sharpbill",
-      "sci": "Oxyruncus cristatus",
+      "sci": "Oxyruncus huacris",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1147,7 +1147,7 @@
       "id": "128",
       "name": "黑尾黄腰霸花",
       "en": "Black-tailed Myiobius",
-      "sci": "Myiobius atricaudus",
+      "sci": "Myiobius huaatri",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -1156,7 +1156,7 @@
       "id": "129",
       "name": "艾氏琴花",
       "en": "Albert's Lyrebird",
-      "sci": "Menura alberti",
+      "sci": "Menura huaalbe",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -1165,7 +1165,7 @@
       "id": "130",
       "name": "噪薮花",
       "en": "Noisy Scrubbird",
-      "sci": "Atrichornis clamosus",
+      "sci": "Atrichornis huaclam",
       "w": 1443,
       "h": 1090,
       "bike": false
@@ -1174,7 +1174,7 @@
       "id": "131",
       "name": "斑园丁花",
       "en": "Black-eared Catbird",
-      "sci": "Ailuroedus melanotis",
+      "sci": "Ailuroedus huamela",
       "w": 1294,
       "h": 1216,
       "bike": false
@@ -1183,7 +1183,7 @@
       "id": "132",
       "name": "棕短嘴旋木花",
       "en": "Rufous Treecreeper",
-      "sci": "Climacteris rufus",
+      "sci": "Climacteris huarufu",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -1192,7 +1192,7 @@
       "id": "133",
       "name": "华氏鹩花",
       "en": "Wallace's Fairywren",
-      "sci": "Sipodotus wallacii",
+      "sci": "Sipodotus huawall",
       "w": 1457,
       "h": 1079,
       "bike": false
@@ -1201,7 +1201,7 @@
       "id": "134",
       "name": "松巴摄蜜花",
       "en": "Sumba Myzomela",
-      "sci": "Myzomela dammermani",
+      "sci": "Myzomela huadamm",
       "w": 1278,
       "h": 1230,
       "bike": false
@@ -1210,7 +1210,7 @@
       "id": "135",
       "name": "棕刺花",
       "en": "Eastern Bristlebird",
-      "sci": "Dasyornis brachypterus",
+      "sci": "Dasyornis huabrac",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1219,7 +1219,7 @@
       "id": "136",
       "name": "斑翅食蜜花",
       "en": "Spotted Pardalote",
-      "sci": "Pardalotus punctatus",
+      "sci": "Pardalotus huapunc",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1228,7 +1228,7 @@
       "id": "137",
       "name": "低地鼠花",
       "en": "Rusty Mouse-warbler",
-      "sci": "Origma murina",
+      "sci": "Origma huamuri",
       "w": 1380,
       "h": 1140,
       "bike": false
@@ -1237,7 +1237,7 @@
       "id": "138",
       "name": "白眉弯嘴花",
       "en": "White-browed Babbler",
-      "sci": "Pomatostomus superciliosus",
+      "sci": "Pomatostomus huasupe",
       "w": 1217,
       "h": 1292,
       "bike": false
@@ -1246,7 +1246,7 @@
       "id": "139",
       "name": "刺尾花",
       "en": "Australian Logrunner",
-      "sci": "Orthonyx temminckii",
+      "sci": "Orthonyx huatemm",
       "w": 1315,
       "h": 1196,
       "bike": false
@@ -1255,7 +1255,7 @@
       "id": "140",
       "name": "黑短嘴极乐花",
       "en": "Loria's Satinbird",
-      "sci": "Cnemophilus loriae",
+      "sci": "Cnemophilus hualori",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1264,7 +1264,7 @@
       "id": "141",
       "name": "小弯嘴吸蜜花",
       "en": "Spectacled Longbill",
-      "sci": "Oedistoma iliolophus",
+      "sci": "Oedistoma huailio",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1273,7 +1273,7 @@
       "id": "142",
       "name": "冠啄果花",
       "en": "Eastern Crested Berrypecker",
-      "sci": "Paramythia montium",
+      "sci": "Paramythia huamont",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -1282,7 +1282,7 @@
       "id": "143",
       "name": "北岛鞍背花",
       "en": "North Island Saddleback",
-      "sci": "Philesturnus rufusater",
+      "sci": "Philesturnus huarufu",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1291,7 +1291,7 @@
       "id": "144",
       "name": "须吸蜜花",
       "en": "Stitchbird",
-      "sci": "Notiomystis cincta",
+      "sci": "Notiomystis huacinc",
       "w": 1373,
       "h": 1145,
       "bike": false
@@ -1300,7 +1300,7 @@
       "id": "145",
       "name": "绿啸冠花",
       "en": "Eastern Whipbird",
-      "sci": "Psophodes olivaceus",
+      "sci": "Psophodes huaoliv",
       "w": 1491,
       "h": 1055,
       "bike": false
@@ -1309,7 +1309,7 @@
       "id": "146",
       "name": "铜背鹑花",
       "en": "Copperback Quail-thrush",
-      "sci": "Cinclosoma clarum",
+      "sci": "Cinclosoma huaclar",
       "w": 1385,
       "h": 1136,
       "bike": false
@@ -1318,7 +1318,7 @@
       "id": "147",
       "name": "褐翅蓬背花",
       "en": "Dark Batis",
-      "sci": "Batis crypta",
+      "sci": "Batis huacryp",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1327,7 +1327,7 @@
       "id": "148",
       "name": "褐头黑花",
       "en": "Gabela Bushshrike",
-      "sci": "Laniarius amboimensis",
+      "sci": "Laniarius huaambo",
       "w": 1524,
       "h": 1032,
       "bike": false
@@ -1336,7 +1336,7 @@
       "id": "149",
       "name": "黄胸船嘴花",
       "en": "Yellow-breasted Boatbill",
-      "sci": "Machaerirhynchus flaviventer",
+      "sci": "Machaerirhynchus huaflav",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1345,7 +1345,7 @@
       "id": "150",
       "name": "林花",
       "en": "Common Woodshrike",
-      "sci": "Tephrodornis pondicerianus",
+      "sci": "Tephrodornis huapond",
       "w": 1320,
       "h": 1191,
       "bike": false
@@ -1354,7 +1354,7 @@
       "id": "151",
       "name": "棘头花",
       "en": "Bornean Bristlehead",
-      "sci": "Pityriasis gymnocephala",
+      "sci": "Pityriasis huagymn",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -1363,7 +1363,7 @@
       "id": "152",
       "name": "灰燕花",
       "en": "Ashy Woodswallow",
-      "sci": "Artamus fuscus",
+      "sci": "Artamus huafusc",
       "w": 1293,
       "h": 1216,
       "bike": false
@@ -1372,7 +1372,7 @@
       "id": "153",
       "name": "斑啸花",
       "en": "Mottled Berryhunter",
-      "sci": "Rhagologus leucostigma",
+      "sci": "Rhagologus hualeuc",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -1381,7 +1381,7 @@
       "id": "154",
       "name": "黑翅雀花",
       "en": "Common Iora",
-      "sci": "Aegithina tiphia",
+      "sci": "Aegithina huatiph",
       "w": 1774,
       "h": 887,
       "bike": false
@@ -1390,7 +1390,7 @@
       "id": "155",
       "name": "大鹃花",
       "en": "Oriental Cuckooshrike",
-      "sci": "Coracina javensis",
+      "sci": "Coracina huajave",
       "w": 1319,
       "h": 1193,
       "bike": false
@@ -1399,7 +1399,7 @@
       "id": "156",
       "name": "黄头刺花",
       "en": "Yellowhead",
-      "sci": "Mohoua ochrocephala",
+      "sci": "Mohoua huaochr",
       "w": 1218,
       "h": 1292,
       "bike": false
@@ -1408,7 +1408,7 @@
       "id": "157",
       "name": "杂色澳花",
       "en": "Varied Sittella",
-      "sci": "Daphoenositta chrysoptera",
+      "sci": "Daphoenositta huachry",
       "w": 1379,
       "h": 1141,
       "bike": false
@@ -1417,7 +1417,7 @@
       "id": "158",
       "name": "肉垂犁嘴花",
       "en": "Wattled Ploughbill",
-      "sci": "Eulacestoma nigropectus",
+      "sci": "Eulacestoma huanigr",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -1426,7 +1426,7 @@
       "id": "159",
       "name": "冠钟花",
       "en": "Crested Bellbird",
-      "sci": "Oreoica gutturalis",
+      "sci": "Oreoica huagutt",
       "w": 1198,
       "h": 1313,
       "bike": false
@@ -1435,7 +1435,7 @@
       "id": "160",
       "name": "北鵙雀花",
       "en": "Northern Shriketit",
-      "sci": "Falcunculus whitei",
+      "sci": "Falcunculus huawhit",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1444,7 +1444,7 @@
       "id": "161",
       "name": "硫黄腹啸花",
       "en": "Sulphur-vented Whistler",
-      "sci": "Pachycephala sulfuriventer",
+      "sci": "Pachycephala huasulf",
       "w": 1226,
       "h": 1283,
       "bike": false
@@ -1453,7 +1453,7 @@
       "id": "162",
       "name": "红翅鵙花",
       "en": "White-browed Shrike-babbler",
-      "sci": "Pteruthius aeralatus",
+      "sci": "Pteruthius huaaera",
       "w": 1347,
       "h": 1167,
       "bike": false
@@ -1462,7 +1462,7 @@
       "id": "163",
       "name": "黑喉黄花",
       "en": "Dark-throated Oriole",
-      "sci": "Oriolus xanthonotus",
+      "sci": "Oriolus huaxant",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1471,7 +1471,7 @@
       "id": "164",
       "name": "大盘花",
       "en": "Greater Racket-tailed Drongo",
-      "sci": "Dicrurus paradiseus",
+      "sci": "Dicrurus huapara",
       "w": 1086,
       "h": 1448,
       "bike": false
@@ -1480,7 +1480,7 @@
       "id": "165",
       "name": "白喉扇尾花",
       "en": "White-throated Fantail",
-      "sci": "Rhipidura albicollis",
+      "sci": "Rhipidura huaalbi",
       "w": 1301,
       "h": 1209,
       "bike": false
@@ -1489,7 +1489,7 @@
       "id": "166",
       "name": "寿花",
       "en": "Amur Paradise Flycatcher",
-      "sci": "Terpsiphone incei",
+      "sci": "Terpsiphone huaince",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -1498,7 +1498,7 @@
       "id": "167",
       "name": "冠花",
       "en": "Crested Jayshrike",
-      "sci": "Platylophus galericulatus",
+      "sci": "Platylophus huagale",
       "w": 1226,
       "h": 1283,
       "bike": false
@@ -1507,7 +1507,7 @@
       "id": "168",
       "name": "楔尾伯花",
       "en": "Chinese Grey Shrike",
-      "sci": "Lanius sphenocercus",
+      "sci": "Lanius huasphe",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1516,7 +1516,7 @@
       "id": "169",
       "name": "灰短嘴澳花",
       "en": "Apostlebird",
-      "sci": "Struthidea cinerea",
+      "sci": "Struthidea huacine",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1525,7 +1525,7 @@
       "id": "170",
       "name": "小黑脚风花",
       "en": "Lesser Melampitta",
-      "sci": "Melampitta lugubris",
+      "sci": "Melampitta hualugu",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1534,7 +1534,7 @@
       "id": "171",
       "name": "蓝顶鹛花",
       "en": "Blue-capped Ifrit",
-      "sci": "Ifrita kowaldi",
+      "sci": "Ifrita huakowa",
       "w": 1484,
       "h": 1060,
       "bike": false
@@ -1543,7 +1543,7 @@
       "id": "172",
       "name": "绿胸辉极乐花",
       "en": "Crinkle-collared Manucode",
-      "sci": "Manucodia chalybatus",
+      "sci": "Manucodia huachal",
       "w": 1367,
       "h": 1151,
       "bike": false
@@ -1552,7 +1552,7 @@
       "id": "173",
       "name": "所罗门鸲花",
       "en": "Solomons Robin",
-      "sci": "Petroica polymorpha",
+      "sci": "Petroica huapoly",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1561,7 +1561,7 @@
       "id": "174",
       "name": "白颈岩花",
       "en": "White-necked Rockfowl",
-      "sci": "Picathartes gymnocephalus",
+      "sci": "Picathartes huagymn",
       "w": 1447,
       "h": 1087,
       "bike": false
@@ -1570,7 +1570,7 @@
       "id": "175",
       "name": "棕岩花",
       "en": "Cape Rockjumper",
-      "sci": "Chaetops frenatus",
+      "sci": "Chaetops huafren",
       "w": 1194,
       "h": 1317,
       "bike": false
@@ -1579,7 +1579,7 @@
       "id": "176",
       "name": "白眉长颈花",
       "en": "Rail-babbler",
-      "sci": "Eupetes macrocerus",
+      "sci": "Eupetes huamacr",
       "w": 1421,
       "h": 1107,
       "bike": false
@@ -1588,7 +1588,7 @@
       "id": "177",
       "name": "小太平花",
       "en": "Japanese Waxwing",
-      "sci": "Bombycilla japonica",
+      "sci": "Bombycilla huajapo",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -1597,7 +1597,7 @@
       "id": "178",
       "name": "长尾丝花",
       "en": "Long-tailed Silky-flycatcher",
-      "sci": "Ptiliogonys caudatus",
+      "sci": "Ptiliogonys huacaud",
       "w": 1206,
       "h": 1305,
       "bike": false
@@ -1606,7 +1606,7 @@
       "id": "179",
       "name": "灰连花",
       "en": "Grey Hypocolius",
-      "sci": "Hypocolius ampelinus",
+      "sci": "Hypocolius huaampe",
       "w": 1298,
       "h": 1212,
       "bike": false
@@ -1615,7 +1615,7 @@
       "id": "180",
       "name": "棕榈花",
       "en": "Palmchat",
-      "sci": "Dulus dominicus",
+      "sci": "Dulus huadomi",
       "w": 1427,
       "h": 1102,
       "bike": false
@@ -1624,7 +1624,7 @@
       "id": "181",
       "name": "林啸花",
       "en": "Hylocitrea",
-      "sci": "Hylocitrea bonensis",
+      "sci": "Hylocitrea huabone",
       "w": 1222,
       "h": 1287,
       "bike": false
@@ -1633,7 +1633,7 @@
       "id": "182",
       "name": "方尾花",
       "en": "Grey-headed Canary-flycatcher",
-      "sci": "Culicicapa ceylonensis",
+      "sci": "Culicicapa huaceyl",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1642,7 +1642,7 @@
       "id": "183",
       "name": "川褐头山花",
       "en": "Sichuan Tit",
-      "sci": "Poecile weigoldicus",
+      "sci": "Poecile huaweig",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1651,7 +1651,7 @@
       "id": "184",
       "name": "中华攀花",
       "en": "Chinese Penduline Tit",
-      "sci": "Remiz consobrinus",
+      "sci": "Remiz huacons",
       "w": 1218,
       "h": 1292,
       "bike": false
@@ -1660,7 +1660,7 @@
       "id": "185",
       "name": "黄喉斗花",
       "en": "Yellow-throated Nicator",
-      "sci": "Nicator vireo",
+      "sci": "Nicator huavire",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1669,7 +1669,7 @@
       "id": "186",
       "name": "文须花",
       "en": "Bearded Reedling",
-      "sci": "Panurus biarmicus",
+      "sci": "Panurus huabiar",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1678,7 +1678,7 @@
       "id": "187",
       "name": "凤头百花",
       "en": "Crested Lark",
-      "sci": "Galerida cristata",
+      "sci": "Galerida huacris",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -1687,7 +1687,7 @@
       "id": "188",
       "name": "栗耳短脚花",
       "en": "Brown-eared Bulbul",
-      "sci": "Hypsipetes amaurotis",
+      "sci": "Hypsipetes huaamau",
       "w": 1343,
       "h": 1171,
       "bike": false
@@ -1696,7 +1696,7 @@
       "id": "189",
       "name": "崖沙花",
       "en": "Sand Martin",
-      "sci": "Riparia riparia",
+      "sci": "Riparia huaripa",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1705,7 +1705,7 @@
       "id": "190",
       "name": "鳞胸鹪花",
       "en": "Scaly-breasted Cupwing",
-      "sci": "Pnoepyga albiventer",
+      "sci": "Pnoepyga huaalbi",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1714,7 +1714,7 @@
       "id": "191",
       "name": "短尾森花",
       "en": "Northern Crombec",
-      "sci": "Sylvietta brachyura",
+      "sci": "Sylvietta huabrac",
       "w": 1293,
       "h": 1217,
       "bike": false
@@ -1723,7 +1723,7 @@
       "id": "192",
       "name": "强脚树花",
       "en": "Brown-flanked Bush Warbler",
-      "sci": "Horornis fortipes",
+      "sci": "Horornis huafort",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -1732,7 +1732,7 @@
       "id": "193",
       "name": "纹鹪花",
       "en": "Streaked Scrub Warbler",
-      "sci": "Scotocerca inquieta",
+      "sci": "Scotocerca huainqu",
       "w": 1290,
       "h": 1219,
       "bike": false
@@ -1741,7 +1741,7 @@
       "id": "194",
       "name": "利氏红花",
       "en": "Livingstone's Flycatcher",
-      "sci": "Erythrocercus livingstonei",
+      "sci": "Erythrocercus hualivi",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1750,7 +1750,7 @@
       "id": "195",
       "name": "绿花",
       "en": "Green Hylia",
-      "sci": "Hylia prasina",
+      "sci": "Hylia huapras",
       "w": 1448,
       "h": 1086,
       "bike": false
@@ -1759,7 +1759,7 @@
       "id": "196",
       "name": "北长尾山花",
       "en": "Long-tailed Tit",
-      "sci": "Aegithalos caudatus",
+      "sci": "Aegithalos huacaud",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1768,7 +1768,7 @@
       "id": "197",
       "name": "淡尾鹟花",
       "en": "Alström's Warbler",
-      "sci": "Phylloscopus soror",
+      "sci": "Phylloscopus huasoro",
       "w": 1518,
       "h": 1036,
       "bike": false
@@ -1777,7 +1777,7 @@
       "id": "198",
       "name": "黑眉苇花",
       "en": "Black-browed Reed Warbler",
-      "sci": "Acrocephalus bistrigiceps",
+      "sci": "Acrocephalus huabist",
       "w": 1245,
       "h": 1263,
       "bike": false
@@ -1786,7 +1786,7 @@
       "id": "199",
       "name": "矛斑蝗花",
       "en": "Lanceolated Warbler",
-      "sci": "Locustella lanceolata",
+      "sci": "Locustella hualanc",
       "w": 1326,
       "h": 1187,
       "bike": false
@@ -1795,7 +1795,7 @@
       "id": "200",
       "name": "黑顶鹪花",
       "en": "Black-capped Donacobius",
-      "sci": "Donacobius atricapilla",
+      "sci": "Donacobius huaatri",
       "w": 1165,
       "h": 1350,
       "bike": false
@@ -1804,7 +1804,7 @@
       "id": "201",
       "name": "楔尾马岛花",
       "en": "Wedge-tailed Jery",
-      "sci": "Hartertula flavoviridis",
+      "sci": "Hartertula huaflav",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1813,7 +1813,7 @@
       "id": "202",
       "name": "长尾缝叶花",
       "en": "Common Tailorbird",
-      "sci": "Orthotomus sutorius",
+      "sci": "Orthotomus huasuto",
       "w": 1448,
       "h": 1086,
       "bike": false
@@ -1822,7 +1822,7 @@
       "id": "203",
       "name": "也门林花",
       "en": "Yemen Warbler",
-      "sci": "Curruca buryi",
+      "sci": "Curruca huabury",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -1831,7 +1831,7 @@
       "id": "204",
       "name": "金胸雀花",
       "en": "Golden-breasted Fulvetta",
-      "sci": "Lioparus chrysotis",
+      "sci": "Lioparus huachry",
       "w": 1447,
       "h": 1087,
       "bike": false
@@ -1840,7 +1840,7 @@
       "id": "205",
       "name": "低地绣眼花",
       "en": "Lowland White-eye",
-      "sci": "Zosterops meyeni",
+      "sci": "Zosterops huameye",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1849,7 +1849,7 @@
       "id": "206",
       "name": "斑胸钩嘴花",
       "en": "Black-streaked Scimitar Babbler",
-      "sci": "Erythrogenys gravivox",
+      "sci": "Erythrogenys huagrav",
       "w": 1416,
       "h": 1111,
       "bike": false
@@ -1858,7 +1858,7 @@
       "id": "207",
       "name": "褐胁雀花",
       "en": "Rusty-capped Fulvetta",
-      "sci": "Schoeniparus dubius",
+      "sci": "Schoeniparus huadubi",
       "w": 1463,
       "h": 1075,
       "bike": false
@@ -1867,7 +1867,7 @@
       "id": "208",
       "name": "白冠噪花",
       "en": "White-crested Laughingthrush",
-      "sci": "Garrulax leucolophus",
+      "sci": "Garrulax hualeuc",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1876,7 +1876,7 @@
       "id": "209",
       "name": "灰胸雅花",
       "en": "Grey-chested Babbler",
-      "sci": "Kakamega poliothorax",
+      "sci": "Kakamega huapoli",
       "w": 1382,
       "h": 1138,
       "bike": false
@@ -1885,7 +1885,7 @@
       "id": "210",
       "name": "长尾食蜜花",
       "en": "Cape Sugarbird",
-      "sci": "Promerops cafer",
+      "sci": "Promerops huacafe",
       "w": 2172,
       "h": 724,
       "bike": false
@@ -1894,7 +1894,7 @@
       "id": "211",
       "name": "巴拉望和平花",
       "en": "Palawan Fairy-bluebird",
-      "sci": "Irena tweeddalii",
+      "sci": "Irena huatwee",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -1903,7 +1903,7 @@
       "id": "212",
       "name": "花菊",
       "en": "Goldcrest",
-      "sci": "Regulus regulus",
+      "sci": "Regulus huaregu",
       "w": 1416,
       "h": 1111,
       "bike": false
@@ -1912,7 +1912,7 @@
       "id": "213",
       "name": "丽星鹩花",
       "en": "Spotted Elachura",
-      "sci": "Elachura formosa",
+      "sci": "Elachura huaform",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1921,7 +1921,7 @@
       "id": "214",
       "name": "黄腹丛花",
       "en": "Yellow-bellied Hyliota",
-      "sci": "Hyliota flavigaster",
+      "sci": "Hyliota huaflav",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -1930,7 +1930,7 @@
       "id": "215",
       "name": "棕背曲嘴鹪花",
       "en": "Rufous-backed Wren",
-      "sci": "Campylorhynchus capistratus",
+      "sci": "Campylorhynchus huacapi",
       "w": 1222,
       "h": 1287,
       "bike": false
@@ -1939,7 +1939,7 @@
       "id": "216",
       "name": "半领蚋花",
       "en": "Tawny-faced Gnatwren",
-      "sci": "Microbates cinereiventris",
+      "sci": "Microbates huacine",
       "w": 1235,
       "h": 1274,
       "bike": false
@@ -1948,7 +1948,7 @@
       "id": "217",
       "name": "普通花",
       "en": "Eurasian Nuthatch",
-      "sci": "Sitta europaea",
+      "sci": "Sitta huaeuro",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -1957,7 +1957,7 @@
       "id": "218",
       "name": "红翅旋壁花",
       "en": "Wallcreeper",
-      "sci": "Tichodroma muraria",
+      "sci": "Tichodroma huamura",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -1966,7 +1966,7 @@
       "id": "219",
       "name": "旋木花",
       "en": "Eurasian Treecreeper",
-      "sci": "Certhia familiaris",
+      "sci": "Certhia huafami",
       "w": 1398,
       "h": 1125,
       "bike": false
@@ -1975,7 +1975,7 @@
       "id": "220",
       "name": "斑旋木花",
       "en": "Indian Spotted Creeper",
-      "sci": "Salpornis spilonota",
+      "sci": "Salpornis huaspil",
       "w": 1024,
       "h": 1536,
       "bike": false
@@ -1984,7 +1984,7 @@
       "id": "221",
       "name": "黑嘲花",
       "en": "Black Catbird",
-      "sci": "Melanoptila glabrirostris",
+      "sci": "Melanoptila huaglab",
       "w": 1247,
       "h": 1261,
       "bike": false
@@ -1993,7 +1993,7 @@
       "id": "222",
       "name": "灰背椋花",
       "en": "White-shouldered Starling",
-      "sci": "Sturnia sinensis",
+      "sci": "Sturnia huasine",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -2002,7 +2002,7 @@
       "id": "223",
       "name": "黄嘴牛椋花",
       "en": "Yellow-billed Oxpecker",
-      "sci": "Buphagus africanus",
+      "sci": "Buphagus huaafri",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -2011,7 +2011,7 @@
       "id": "224",
       "name": "乌灰花",
       "en": "Japanese Thrush",
-      "sci": "Turdus cardis",
+      "sci": "Turdus huacard",
       "w": 1407,
       "h": 1118,
       "bike": false
@@ -2020,7 +2020,7 @@
       "id": "225",
       "name": "白喉矶花",
       "en": "White-throated Rock Thrush",
-      "sci": "Monticola gularis",
+      "sci": "Monticola huagula",
       "w": 1206,
       "h": 1305,
       "bike": false
@@ -2029,7 +2029,7 @@
       "id": "226",
       "name": "河花",
       "en": "White-throated Dipper",
-      "sci": "Cinclus cinclus",
+      "sci": "Cinclus huacinc",
       "w": 1269,
       "h": 1240,
       "bike": false
@@ -2038,7 +2038,7 @@
       "id": "227",
       "name": "橙腹叶花",
       "en": "Orange-bellied Leafbird",
-      "sci": "Chloropsis hardwickii",
+      "sci": "Chloropsis huahard",
       "w": 1393,
       "h": 1129,
       "bike": false
@@ -2047,7 +2047,7 @@
       "id": "228",
       "name": "纯色啄花鸟",
       "en": "Plain Flowerpecker",
-      "sci": "Dicaeum minullum",
+      "sci": "Dicaeum huaminu",
       "w": 1363,
       "h": 1154,
       "bike": false
@@ -2056,7 +2056,7 @@
       "id": "229",
       "name": "长嘴捕蛛花",
       "en": "Little Spiderhunter",
-      "sci": "Arachnothera longirostra",
+      "sci": "Arachnothera hualong",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -2065,7 +2065,7 @@
       "id": "230",
       "name": "麻花",
       "en": "Eurasian Tree Sparrow",
-      "sci": "Passer montanus",
+      "sci": "Passer huamont",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -2074,7 +2074,7 @@
       "id": "231",
       "name": "褐喉金织花",
       "en": "Southern Brown-throated Weaver",
-      "sci": "Ploceus xanthopterus",
+      "sci": "Ploceus huaxant",
       "w": 1199,
       "h": 1312,
       "bike": false
@@ -2083,7 +2083,7 @@
       "id": "232",
       "name": "白喉文花",
       "en": "Indian Silverbill",
-      "sci": "Euodice malabarica",
+      "sci": "Euodice huamala",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -2092,7 +2092,7 @@
       "id": "233",
       "name": "暗紫维达花",
       "en": "Dusky Indigobird",
-      "sci": "Vidua funerea",
+      "sci": "Vidua huafune",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -2101,7 +2101,7 @@
       "id": "234",
       "name": "橄榄绿森花",
       "en": "Olive Warbler",
-      "sci": "Peucedramus taeniatus",
+      "sci": "Peucedramus huataen",
       "w": 1536,
       "h": 1024,
       "bike": false
@@ -2110,7 +2110,7 @@
       "id": "235",
       "name": "鸲岩花",
       "en": "Robin Accentor",
-      "sci": "Prunella rubeculoides",
+      "sci": "Prunella huarube",
       "w": 1325,
       "h": 1187,
       "bike": false
@@ -2119,7 +2119,7 @@
       "id": "236",
       "name": "黄头鹡花",
       "en": "Citrine Wagtail",
-      "sci": "Motacilla citreola",
+      "sci": "Motacilla huacitr",
       "w": 1341,
       "h": 1173,
       "bike": false
@@ -2128,7 +2128,7 @@
       "id": "237",
       "name": "朱花",
       "en": "Przevalski's Finch",
-      "sci": "Urocynchramus pylzowi",
+      "sci": "Urocynchramus huapylz",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -2137,7 +2137,7 @@
       "id": "238",
       "name": "拟大朱花",
       "en": "Streaked Rosefinch",
-      "sci": "Carpodacus rubicilloides",
+      "sci": "Carpodacus huarubi",
       "w": 1954,
       "h": 805,
       "bike": false
@@ -2146,7 +2146,7 @@
       "id": "239",
       "name": "麦氏花",
       "en": "McKay's Bunting",
-      "sci": "Plectrophenax hyperboreus",
+      "sci": "Plectrophenax huahype",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -2155,7 +2155,7 @@
       "id": "240",
       "name": "鸫唐纳花",
       "en": "Rosy Thrush-tanager",
-      "sci": "Rhodinocichla rosea",
+      "sci": "Rhodinocichla huarose",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -2164,7 +2164,7 @@
       "id": "241",
       "name": "黄眉花",
       "en": "Yellow-browed Bunting",
-      "sci": "Emberiza chrysophrys",
+      "sci": "Emberiza huachry",
       "w": 1339,
       "h": 1174,
       "bike": false
@@ -2173,7 +2173,7 @@
       "id": "242",
       "name": "狐色雀花",
       "en": "Red Fox Sparrow",
-      "sci": "Passerella iliaca",
+      "sci": "Passerella huailia",
       "w": 1407,
       "h": 1118,
       "bike": false
@@ -2182,7 +2182,7 @@
       "id": "243",
       "name": "西䳭唐纳花",
       "en": "Western Chat-Tanager",
-      "sci": "Calyptophilus tertius",
+      "sci": "Calyptophilus huatert",
       "w": 1365,
       "h": 1152,
       "bike": false
@@ -2191,7 +2191,7 @@
       "id": "244",
       "name": "黑顶长尾唐纳花",
       "en": "Black-crowned Palm-tanager",
-      "sci": "Phaenicophilus palmarum",
+      "sci": "Phaenicophilus huapalm",
       "w": 1312,
       "h": 1199,
       "bike": false
@@ -2200,7 +2200,7 @@
       "id": "245",
       "name": "冠鹩森花",
       "en": "Wrenthrush",
-      "sci": "Zeledonia coronata",
+      "sci": "Zeledonia huacoro",
       "w": 1167,
       "h": 1348,
       "bike": false
@@ -2209,7 +2209,7 @@
       "id": "246",
       "name": "灰森花",
       "en": "Oriente Warbler",
-      "sci": "Teretistris fornsi",
+      "sci": "Teretistris huaforn",
       "w": 1347,
       "h": 1168,
       "bike": false
@@ -2218,7 +2218,7 @@
       "id": "247",
       "name": "白眉草地花",
       "en": "White-browed Meadowlark",
-      "sci": "Leistes superciliaris",
+      "sci": "Leistes huasupe",
       "w": 1254,
       "h": 1254,
       "bike": false
@@ -2227,7 +2227,7 @@
       "id": "248",
       "name": "黑喉绿林花",
       "en": "Black-throated Green Warbler",
-      "sci": "Setophaga virens",
+      "sci": "Setophaga huavire",
       "w": 1317,
       "h": 1194,
       "bike": false
@@ -2236,7 +2236,7 @@
       "id": "249",
       "name": "红嘴唐纳花",
       "en": "Red-billed Pied Tanager",
-      "sci": "Lamprospiza melanoleuca",
+      "sci": "Lamprospiza huamela",
       "w": 1448,
       "h": 1086,
       "bike": false
@@ -2245,7 +2245,7 @@
       "id": "250",
       "name": "Huachu",
       "en": "huachu bird",
-      "sci": "",
+      "sci": "Huachu huachu",
       "w": 1254,
       "h": 1254,
       "bike": false

@@ -28,7 +28,7 @@ export async function mountGallery(root, status, empty, shown, search, filterAll
 
     const img = document.createElement("img");
     img.src = `/assets/thumbs/${bird.id}.webp`;
-    img.alt = bird.bike ? `${bird.id} ${bird.name}，骑行` : `${bird.id} ${bird.name}`;
+    img.alt = bird.bike ? `${bird.id} ${bird.name}，骑行种` : `${bird.id} ${bird.name}`;
     img.width = 480;
     img.height = 480;
     img.decoding = "async";
@@ -61,7 +61,7 @@ export async function mountGallery(root, status, empty, shown, search, filterAll
     } else if (bird.bike) {
       const badge = document.createElement("span");
       badge.className = "badge";
-      badge.textContent = "骑行";
+      badge.textContent = "骑行种";
       cap.append(badge);
     }
 

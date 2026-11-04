@@ -33,7 +33,7 @@ function setView(view) {
   galleryView.hidden = play;
   playView.hidden = !play;
   document.body.classList.toggle("mode-play", play);
-  document.title = play ? "Where's Huachu · huachu bird" : "观鸟 · huachu bird";
+  document.title = play ? "Where's Huachu · huachu bird" : "啥鸟 · huachu bird";
   for (const link of links) {
     const current = link.dataset.view === view;
     if (current) link.setAttribute("aria-current", "page");

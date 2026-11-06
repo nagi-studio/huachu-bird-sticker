@@ -4,6 +4,7 @@ import test from "node:test";
 import {
   BIRD_COUNT,
   MAX_BIRDS,
+  MIN_CELL,
   TARGET_ID,
   TARGET_SRC,
   buildRound,
@@ -110,6 +111,22 @@ test("grid caps the flock on very wide stages", () => {
   const grid = gridFor(3840, 900);
   assert.ok(grid.count <= MAX_BIRDS);
   assert.equal(grid.count, grid.cols * grid.rows);
+});
+
+test("phone-sized stages still get a dense flock", () => {
+  for (const [width, height] of [[360, 420], [371, 520], [414, 640]]) {
+    const grid = gridFor(width, height);
+    assert.ok(grid.count >= 60, `${width}x${height} only got ${grid.count}`);
+    assert.ok(grid.count <= MAX_BIRDS);
+    assert.ok(Math.min(width / grid.cols, height / grid.rows) >= MIN_CELL);
+  }
+});
+
+test("huachu is only a little smaller than the flock", () => {
+  const round = buildRound(390, 600, mulberry32(3));
+  const target = round.items.find((item) => item.isTarget);
+  const smallest = Math.min(...round.items.filter((item) => !item.isTarget).map((item) => item.sizeK));
+  assert.ok(target.sizeK / smallest > 0.85);
 });
 
 test("score and time", () => {

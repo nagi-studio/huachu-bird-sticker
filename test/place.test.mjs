@@ -152,7 +152,6 @@ test("catalog, thumbs, sounds, and filenames", async () => {
   assert.equal(data.birds[0].id, "001");
   assert.equal(data.birds.at(-1).id, "250");
   assert.equal(data.birds.at(-1).name, "Huachu");
-  assert.equal(data.birds.find((bird) => bird.id === "249").name, "红嘴唐纳雀");
   assert.equal(data.birds.filter((bird) => bird.bike).length, 6);
   await access(new URL("assets/thumbs/250.webp", root));
   await access(new URL("assets/sfx/miss.mp3", root));

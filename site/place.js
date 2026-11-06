@@ -10,6 +10,9 @@
 
 export const BIRD_COUNT = 250;
 export const MAX_BIRDS = 84;
+export const MIN_CELL = 44;
+export const TARGET_SIZE_K = 0.86;
+export const DECOY_SIZE_K = [0.94, 1.14];
 export const TARGET_ID = 250;
 export const TARGET_SRC = "/assets/thumbs/250.webp";
 export const TARGET_FULL = "/birds/250.png";
@@ -39,7 +42,9 @@ export function shuffle(list, rng) {
 export function gridFor(width, height) {
   const w = Math.max(width, 1);
   const h = Math.max(height, 1);
-  let cell = Math.max(74, Math.min(w, h) / 6.15);
+  // Size cells by area so small screens get a dense flock instead of a few
+  // big stickers; the floor keeps each bird a comfortable tap target.
+  let cell = Math.max(MIN_CELL, Math.sqrt((w * h) / MAX_BIRDS));
   const fit = (size) => {
     const cols = Math.max(3, Math.floor(w / size));
     const rows = Math.max(3, Math.floor(h / size));
@@ -91,7 +96,9 @@ export function buildRound(width, height, rng) {
         row,
         jx: (rng() - 0.5) * 0.28,
         jy: (rng() - 0.5) * 0.28,
-        sizeK: isTarget ? 0.66 : 1.06 + rng() * 0.14,
+        sizeK: isTarget
+          ? TARGET_SIZE_K
+          : DECOY_SIZE_K[0] + rng() * (DECOY_SIZE_K[1] - DECOY_SIZE_K[0]),
         rotation: (rng() - 0.5) * 0.42,
         isTarget,
         z: 0,

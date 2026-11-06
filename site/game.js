@@ -1,4 +1,4 @@
-import { Application, Assets, Sprite } from "./vendor/pixi.min.mjs";
+import { Application, Assets, Circle, Sprite } from "./vendor/pixi.min.mjs";
 import confetti from "./vendor/confetti.module.mjs";
 import {
   buildRound,
@@ -56,6 +56,9 @@ export async function mountGame(els) {
       deactivateOnMouseMove: true,
     },
   });
+  // Let vertical swipes on phones scroll the page; taps still pick.
+  app.renderer.events.autoPreventDefault = false;
+  app.canvas.style.touchAction = "pan-y";
   app.canvas.classList.add("play-canvas");
   app.canvas.setAttribute("aria-label", "找 Huachu 的贴纸画布");
   stage.append(app.canvas);
@@ -285,6 +288,9 @@ export async function mountGame(els) {
       sprite.anchor.set(0.5);
       sprite.eventMode = "static";
       sprite.cursor = "pointer";
+      // Overlapping stickers: a rectangle hit box would let a neighbour's
+      // transparent corners steal taps meant for the bird underneath.
+      sprite.hitArea = new Circle(0, 0, Math.min(texture.width, texture.height) * 0.42);
       sprite.rotation = item.rotation;
       sprite.zIndex = item.z;
       sprite.accessible = true;
@@ -300,7 +306,7 @@ export async function mountGame(els) {
     layoutSprites();
     status.hidden = true;
     ready = true;
-    live.textContent = "鸟群到齐了。找出比较小的、骑车的 Huachu。";
+    live.textContent = "鸟群到齐了。找出 Huachu。";
     tryStartTimer();
   }
 

@@ -17,8 +17,8 @@ function writeMuted(muted) {
 }
 
 export function createSound() {
-  const miss = new Audio("/site/assets/sfx/miss.mp3");
-  const win = new Audio("/site/assets/sfx/win.mp3");
+  const miss = new Audio("/assets/sfx/miss.mp3");
+  const win = new Audio("/assets/sfx/win.mp3");
   miss.preload = "auto";
   win.preload = "auto";
   miss.volume = 0.45;

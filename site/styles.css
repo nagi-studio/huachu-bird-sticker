@@ -189,6 +189,8 @@ h1 { font-size: clamp(2.4rem, 6vw, 4.4rem); line-height: 0.95; margin: 0.15rem 0
 }
 
 .lede { margin: 0.35rem 0 0; max-width: 38rem; color: var(--muted); }
+.target-line { display: flex; align-items: center; gap: 0.6rem; }
+.target-ref { width: 3rem; height: 3rem; object-fit: contain; }
 
 .stamp {
   flex: none;
@@ -522,12 +524,35 @@ body.mode-play #play-view { flex: 1; }
   .target-ref { width: 36px; height: 36px; }
   .play-actions { width: 100%; justify-content: space-between; flex-wrap: nowrap; }
   .play-actions .primary { min-height: 2.4rem; }
-  .stage { border-radius: 1rem; min-height: 22rem; }
+  .stage { border-radius: 1rem; }
 }
 
 @media (max-height: 620px) {
   body.mode-play { overflow: auto; }
   .stage { min-height: 18rem; }
+}
+
+/* Phones and touch screens: the play view scrolls like a normal page.
+   The stage gets a fixed height instead of filling a locked 100dvh body,
+   and vertical swipes on the canvas scroll the page (taps still pick). */
+@media (max-width: 760px), (pointer: coarse) {
+  body.mode-play {
+    height: auto;
+    min-height: 100dvh;
+    overflow: visible;
+    overflow-x: hidden;
+  }
+  body.mode-play #content,
+  body.mode-play #play-view { flex: none; }
+  body.mode-play .foot { display: block; }
+  body.mode-play .stage {
+    flex: none;
+    height: min(72dvh, 40rem);
+    min-height: 20rem;
+  }
+  .stage,
+  .stage canvas,
+  .play-canvas { touch-action: pan-y !important; }
 }
 
 @media (prefers-reduced-motion: reduce) {

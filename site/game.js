@@ -56,6 +56,9 @@ export async function mountGame(els) {
       deactivateOnMouseMove: true,
     },
   });
+  // Let vertical swipes on phones scroll the page; taps still pick.
+  app.renderer.events.autoPreventDefault = false;
+  app.canvas.style.touchAction = "pan-y";
   app.canvas.classList.add("play-canvas");
   app.canvas.setAttribute("aria-label", "找 Huachu 的贴纸画布");
   stage.append(app.canvas);
